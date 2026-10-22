@@ -1,0 +1,30 @@
+{
+  "fold": 4,
+  "inner_fit": 2360,
+  "inner_validation": 570,
+  "outer_evaluation": 671,
+  "seconds": 121.23551070000394,
+  "model_seconds": {
+    "Majority": 0.31089939999219496,
+    "TFIDF_NaiveBayes": 0.30856750000384636,
+    "TFIDF_LogisticRegression": 0.44447680001030676,
+    "TFIDF_LinearSVM": 1.0142634000076214,
+    "Random_Hybrid": 28.853137700003572,
+    "BERT_CNN": 6.769804399998975,
+    "BERT_BiLSTM_Attention": 21.36966479998955,
+    "BERT_Hybrid": 23.88514139999461,
+    "BERT_Hybrid_Augmented": 23.751357300003292
+  },
+  "models": [
+    "Majority",
+    "TFIDF_NaiveBayes",
+    "TFIDF_LogisticRegression",
+    "TFIDF_LinearSVM",
+    "Random_Hybrid",
+    "BERT_CNN",
+    "BERT_BiLSTM_Attention",
+    "BERT_Hybrid",
+    "BERT_Hybrid_Augmented",
+    "SoftVoting_Ensemble"
+  ]
+}

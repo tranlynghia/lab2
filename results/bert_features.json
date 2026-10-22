@@ -1,0 +1,34 @@
+{
+  "model": "bert-base-uncased",
+  "revision": "86b5e0934494bd15c9632b12f734a8a67f723594",
+  "frozen": true,
+  "hidden_size": 768,
+  "vocab_size": 30522,
+  "pair_format": "[CLS] aspect [SEP] review [SEP]",
+  "splits": {
+    "train": {
+      "rows": 2850,
+      "truncated": 0,
+      "seconds": 9.320788899989566,
+      "fingerprint": "171b7f578950146ba68a"
+    },
+    "validation": {
+      "rows": 751,
+      "truncated": 0,
+      "seconds": 2.3631169000000227,
+      "fingerprint": "fca33a6c7f470d91667a"
+    },
+    "test": {
+      "rows": 1120,
+      "truncated": 0,
+      "seconds": 4.958787600015057,
+      "fingerprint": "af81a74c7cf022f3e413"
+    },
+    "augmented": {
+      "rows": 4027,
+      "truncated": 0,
+      "seconds": 17.474543799995445,
+      "fingerprint": "05d1b9375582f098d2df"
+    }
+  }
+}

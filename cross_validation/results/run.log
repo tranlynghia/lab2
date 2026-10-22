@@ -1,0 +1,384 @@
+FULL 5-FOLD CV: device=cuda; development=3601; untouched test=1120
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights:  96%|#########5| 191/199 [00:00<00:00, 1855.67it/s]Loading weights: 100%|##########| 199/199 [00:00<00:00, 1891.99it/s]
+BERT development: 24/3601
+BERT development: 984/3601
+BERT development: 1944/3601
+BERT development: 2904/3601
+BERT official_test: 24/1120
+BERT official_test: 984/1120
+
+Fold 1/5: fit=2291 inner_val=559 outer_eval=751 augmented=3242
+Majority: validation macro F1=0.2460
+TFIDF_NaiveBayes: validation macro F1=0.2644
+TFIDF_LogisticRegression: validation macro F1=0.6104
+TFIDF_LinearSVM: validation macro F1=0.5603
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights: 100%|##########| 199/199 [00:00<00:00, 3046.35it/s]
+BERT augmented: 24/3242
+BERT augmented: 984/3242
+BERT augmented: 1944/3242
+BERT augmented: 2904/3242
+Random_Hybrid epoch 01: loss=1.1405, val F1=0.2961
+Random_Hybrid epoch 02: loss=1.0409, val F1=0.4578
+Random_Hybrid epoch 03: loss=0.9294, val F1=0.4583
+Random_Hybrid epoch 04: loss=0.8431, val F1=0.5116
+Random_Hybrid epoch 05: loss=0.7997, val F1=0.5017
+Random_Hybrid epoch 06: loss=0.7301, val F1=0.5162
+Random_Hybrid epoch 07: loss=0.6773, val F1=0.4741
+Random_Hybrid epoch 08: loss=0.6435, val F1=0.4841
+Random_Hybrid epoch 09: loss=0.6096, val F1=0.5264
+Random_Hybrid epoch 10: loss=0.5757, val F1=0.5126
+Random_Hybrid epoch 11: loss=0.5255, val F1=0.5336
+Random_Hybrid epoch 12: loss=0.4974, val F1=0.5527
+Random_Hybrid epoch 13: loss=0.4822, val F1=0.5541
+Random_Hybrid epoch 14: loss=0.4410, val F1=0.5695
+Random_Hybrid epoch 15: loss=0.4471, val F1=0.5954
+Random_Hybrid epoch 16: loss=0.4169, val F1=0.5661
+Random_Hybrid epoch 17: loss=0.4338, val F1=0.5853
+Random_Hybrid epoch 18: loss=0.4250, val F1=0.6012
+Random_Hybrid epoch 19: loss=0.4139, val F1=0.5807
+Random_Hybrid epoch 20: loss=0.3928, val F1=0.5548
+BERT_CNN epoch 01: loss=0.9754, val F1=0.5406
+BERT_CNN epoch 02: loss=0.7886, val F1=0.5807
+BERT_CNN epoch 03: loss=0.6895, val F1=0.6402
+BERT_CNN epoch 04: loss=0.6562, val F1=0.6449
+BERT_CNN epoch 05: loss=0.6172, val F1=0.6351
+BERT_CNN epoch 06: loss=0.5765, val F1=0.6421
+BERT_CNN epoch 07: loss=0.5221, val F1=0.6274
+BERT_CNN epoch 08: loss=0.4960, val F1=0.6382
+BERT_BiLSTM_Attention epoch 01: loss=0.9504, val F1=0.4926
+BERT_BiLSTM_Attention epoch 02: loss=0.7876, val F1=0.5956
+BERT_BiLSTM_Attention epoch 03: loss=0.6893, val F1=0.6140
+BERT_BiLSTM_Attention epoch 04: loss=0.6329, val F1=0.6133
+BERT_BiLSTM_Attention epoch 05: loss=0.5832, val F1=0.6605
+BERT_BiLSTM_Attention epoch 06: loss=0.5312, val F1=0.6822
+BERT_BiLSTM_Attention epoch 07: loss=0.4854, val F1=0.6353
+BERT_BiLSTM_Attention epoch 08: loss=0.4580, val F1=0.6259
+BERT_BiLSTM_Attention epoch 09: loss=0.4125, val F1=0.6200
+BERT_BiLSTM_Attention epoch 10: loss=0.3640, val F1=0.6354
+BERT_Hybrid epoch 01: loss=0.9494, val F1=0.5957
+BERT_Hybrid epoch 02: loss=0.7687, val F1=0.5989
+BERT_Hybrid epoch 03: loss=0.6912, val F1=0.6353
+BERT_Hybrid epoch 04: loss=0.6318, val F1=0.6510
+BERT_Hybrid epoch 05: loss=0.5961, val F1=0.6432
+BERT_Hybrid epoch 06: loss=0.5459, val F1=0.6260
+BERT_Hybrid epoch 07: loss=0.5081, val F1=0.6300
+BERT_Hybrid epoch 08: loss=0.4820, val F1=0.6244
+BERT_Hybrid_Augmented epoch 01: loss=0.9129, val F1=0.5634
+BERT_Hybrid_Augmented epoch 02: loss=0.7560, val F1=0.5740
+BERT_Hybrid_Augmented epoch 03: loss=0.6576, val F1=0.5712
+BERT_Hybrid_Augmented epoch 04: loss=0.5935, val F1=0.6393
+BERT_Hybrid_Augmented epoch 05: loss=0.5327, val F1=0.6407
+BERT_Hybrid_Augmented epoch 06: loss=0.4938, val F1=0.6414
+BERT_Hybrid_Augmented epoch 07: loss=0.4354, val F1=0.6781
+BERT_Hybrid_Augmented epoch 08: loss=0.4176, val F1=0.6727
+BERT_Hybrid_Augmented epoch 09: loss=0.3644, val F1=0.6984
+BERT_Hybrid_Augmented epoch 10: loss=0.3268, val F1=0.6730
+BERT_Hybrid_Augmented epoch 11: loss=0.3020, val F1=0.6538
+BERT_Hybrid_Augmented epoch 12: loss=0.2650, val F1=0.6537
+BERT_Hybrid_Augmented epoch 13: loss=0.2294, val F1=0.6161
+Fold 1/5 COMPLETE in 196.9s. Outer scores:
+                   model  accuracy  f1_macro
+                Majority  0.585885  0.246292
+        TFIDF_NaiveBayes  0.593875  0.275362
+TFIDF_LogisticRegression  0.659121  0.570954
+         TFIDF_LinearSVM  0.683089  0.532502
+           Random_Hybrid  0.620506  0.520685
+                BERT_CNN  0.708389  0.618962
+   BERT_BiLSTM_Attention  0.701731  0.619442
+             BERT_Hybrid  0.708389  0.620296
+   BERT_Hybrid_Augmented  0.708389  0.614991
+     SoftVoting_Ensemble  0.720373  0.630626
+
+Fold 2/5: fit=2245 inner_val=588 outer_eval=768 augmented=3155
+Majority: validation macro F1=0.2621
+TFIDF_NaiveBayes: validation macro F1=0.3007
+TFIDF_LogisticRegression: validation macro F1=0.5774
+TFIDF_LinearSVM: validation macro F1=0.4973
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights: 100%|##########| 199/199 [00:00<00:00, 2594.38it/s]
+BERT augmented: 24/3155
+BERT augmented: 984/3155
+BERT augmented: 1944/3155
+BERT augmented: 2904/3155
+Random_Hybrid epoch 01: loss=1.1508, val F1=0.4208
+Random_Hybrid epoch 02: loss=1.0148, val F1=0.4334
+Random_Hybrid epoch 03: loss=0.9506, val F1=0.4879
+Random_Hybrid epoch 04: loss=0.8552, val F1=0.4676
+Random_Hybrid epoch 05: loss=0.7724, val F1=0.4630
+Random_Hybrid epoch 06: loss=0.7143, val F1=0.4839
+Random_Hybrid epoch 07: loss=0.6838, val F1=0.4770
+BERT_CNN epoch 01: loss=0.9847, val F1=0.6496
+BERT_CNN epoch 02: loss=0.7885, val F1=0.6541
+BERT_CNN epoch 03: loss=0.6834, val F1=0.6492
+BERT_CNN epoch 04: loss=0.6548, val F1=0.6162
+BERT_CNN epoch 05: loss=0.5977, val F1=0.6326
+BERT_CNN epoch 06: loss=0.5699, val F1=0.6524
+BERT_BiLSTM_Attention epoch 01: loss=0.9590, val F1=0.6533
+BERT_BiLSTM_Attention epoch 02: loss=0.7552, val F1=0.6480
+BERT_BiLSTM_Attention epoch 03: loss=0.6819, val F1=0.6508
+BERT_BiLSTM_Attention epoch 04: loss=0.6466, val F1=0.6389
+BERT_BiLSTM_Attention epoch 05: loss=0.5726, val F1=0.6205
+BERT_Hybrid epoch 01: loss=0.9703, val F1=0.6427
+BERT_Hybrid epoch 02: loss=0.7759, val F1=0.6641
+BERT_Hybrid epoch 03: loss=0.6904, val F1=0.6511
+BERT_Hybrid epoch 04: loss=0.6315, val F1=0.6247
+BERT_Hybrid epoch 05: loss=0.5912, val F1=0.6439
+BERT_Hybrid epoch 06: loss=0.5524, val F1=0.6523
+BERT_Hybrid_Augmented epoch 01: loss=0.9051, val F1=0.5867
+BERT_Hybrid_Augmented epoch 02: loss=0.7556, val F1=0.6497
+BERT_Hybrid_Augmented epoch 03: loss=0.6555, val F1=0.6315
+BERT_Hybrid_Augmented epoch 04: loss=0.5946, val F1=0.6685
+BERT_Hybrid_Augmented epoch 05: loss=0.5376, val F1=0.6399
+BERT_Hybrid_Augmented epoch 06: loss=0.4907, val F1=0.6344
+BERT_Hybrid_Augmented epoch 07: loss=0.4286, val F1=0.6431
+BERT_Hybrid_Augmented epoch 08: loss=0.3758, val F1=0.6362
+Fold 2/5 COMPLETE in 118.1s. Outer scores:
+                   model  accuracy  f1_macro
+                Majority  0.614583  0.253763
+        TFIDF_NaiveBayes  0.630208  0.301136
+TFIDF_LogisticRegression  0.682292  0.583226
+         TFIDF_LinearSVM  0.717448  0.587615
+           Random_Hybrid  0.609375  0.519498
+                BERT_CNN  0.695312  0.603970
+   BERT_BiLSTM_Attention  0.713542  0.628992
+             BERT_Hybrid  0.657552  0.590719
+   BERT_Hybrid_Augmented  0.703125  0.611622
+     SoftVoting_Ensemble  0.723958  0.633091
+
+Fold 3/5: fit=2298 inner_val=561 outer_eval=742 augmented=3238
+Majority: validation macro F1=0.2649
+TFIDF_NaiveBayes: validation macro F1=0.2995
+TFIDF_LogisticRegression: validation macro F1=0.6007
+TFIDF_LinearSVM: validation macro F1=0.5869
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights: 100%|##########| 199/199 [00:00<00:00, 2447.18it/s]
+BERT augmented: 24/3238
+BERT augmented: 984/3238
+BERT augmented: 1944/3238
+BERT augmented: 2904/3238
+Random_Hybrid epoch 01: loss=1.1405, val F1=0.4157
+Random_Hybrid epoch 02: loss=1.0151, val F1=0.5098
+Random_Hybrid epoch 03: loss=0.9465, val F1=0.5091
+Random_Hybrid epoch 04: loss=0.8494, val F1=0.5221
+Random_Hybrid epoch 05: loss=0.7940, val F1=0.5345
+Random_Hybrid epoch 06: loss=0.7601, val F1=0.5679
+Random_Hybrid epoch 07: loss=0.6912, val F1=0.5411
+Random_Hybrid epoch 08: loss=0.6212, val F1=0.5305
+Random_Hybrid epoch 09: loss=0.5849, val F1=0.5318
+Random_Hybrid epoch 10: loss=0.5731, val F1=0.5502
+BERT_CNN epoch 01: loss=0.9710, val F1=0.5639
+BERT_CNN epoch 02: loss=0.8160, val F1=0.6376
+BERT_CNN epoch 03: loss=0.7354, val F1=0.5989
+BERT_CNN epoch 04: loss=0.6599, val F1=0.6524
+BERT_CNN epoch 05: loss=0.6157, val F1=0.6239
+BERT_CNN epoch 06: loss=0.5708, val F1=0.5582
+BERT_CNN epoch 07: loss=0.5514, val F1=0.6074
+BERT_CNN epoch 08: loss=0.5142, val F1=0.6482
+BERT_BiLSTM_Attention epoch 01: loss=0.9354, val F1=0.5513
+BERT_BiLSTM_Attention epoch 02: loss=0.7819, val F1=0.6277
+BERT_BiLSTM_Attention epoch 03: loss=0.7211, val F1=0.5881
+BERT_BiLSTM_Attention epoch 04: loss=0.6489, val F1=0.6354
+BERT_BiLSTM_Attention epoch 05: loss=0.6057, val F1=0.5937
+BERT_BiLSTM_Attention epoch 06: loss=0.5688, val F1=0.6175
+BERT_BiLSTM_Attention epoch 07: loss=0.5306, val F1=0.6108
+BERT_BiLSTM_Attention epoch 08: loss=0.4886, val F1=0.6418
+BERT_BiLSTM_Attention epoch 09: loss=0.4493, val F1=0.6212
+BERT_BiLSTM_Attention epoch 10: loss=0.4513, val F1=0.6454
+BERT_BiLSTM_Attention epoch 11: loss=0.3938, val F1=0.6280
+BERT_BiLSTM_Attention epoch 12: loss=0.3943, val F1=0.5895
+BERT_BiLSTM_Attention epoch 13: loss=0.3755, val F1=0.6093
+BERT_BiLSTM_Attention epoch 14: loss=0.3367, val F1=0.6429
+BERT_Hybrid epoch 01: loss=0.9463, val F1=0.5542
+BERT_Hybrid epoch 02: loss=0.7661, val F1=0.5857
+BERT_Hybrid epoch 03: loss=0.7213, val F1=0.6260
+BERT_Hybrid epoch 04: loss=0.6371, val F1=0.6369
+BERT_Hybrid epoch 05: loss=0.6138, val F1=0.6035
+BERT_Hybrid epoch 06: loss=0.5633, val F1=0.5926
+BERT_Hybrid epoch 07: loss=0.5794, val F1=0.5682
+BERT_Hybrid epoch 08: loss=0.4969, val F1=0.6312
+BERT_Hybrid_Augmented epoch 01: loss=0.9057, val F1=0.5684
+BERT_Hybrid_Augmented epoch 02: loss=0.7241, val F1=0.5695
+BERT_Hybrid_Augmented epoch 03: loss=0.6503, val F1=0.6001
+BERT_Hybrid_Augmented epoch 04: loss=0.6088, val F1=0.6031
+BERT_Hybrid_Augmented epoch 05: loss=0.5473, val F1=0.5996
+BERT_Hybrid_Augmented epoch 06: loss=0.5341, val F1=0.5845
+BERT_Hybrid_Augmented epoch 07: loss=0.4664, val F1=0.6278
+BERT_Hybrid_Augmented epoch 08: loss=0.4202, val F1=0.6360
+BERT_Hybrid_Augmented epoch 09: loss=0.3872, val F1=0.6345
+BERT_Hybrid_Augmented epoch 10: loss=0.3469, val F1=0.6497
+BERT_Hybrid_Augmented epoch 11: loss=0.3062, val F1=0.6434
+BERT_Hybrid_Augmented epoch 12: loss=0.2836, val F1=0.6657
+BERT_Hybrid_Augmented epoch 13: loss=0.2486, val F1=0.6424
+BERT_Hybrid_Augmented epoch 14: loss=0.2537, val F1=0.6498
+BERT_Hybrid_Augmented epoch 15: loss=0.2276, val F1=0.6341
+BERT_Hybrid_Augmented epoch 16: loss=0.1942, val F1=0.6771
+BERT_Hybrid_Augmented epoch 17: loss=0.1954, val F1=0.6493
+BERT_Hybrid_Augmented epoch 18: loss=0.1840, val F1=0.6827
+BERT_Hybrid_Augmented epoch 19: loss=0.1683, val F1=0.6607
+BERT_Hybrid_Augmented epoch 20: loss=0.1538, val F1=0.6532
+Fold 3/5 COMPLETE in 214.7s. Outer scores:
+                   model  accuracy  f1_macro
+                Majority  0.567385  0.241330
+        TFIDF_NaiveBayes  0.574124  0.272411
+TFIDF_LogisticRegression  0.650943  0.582312
+         TFIDF_LinearSVM  0.656334  0.512750
+           Random_Hybrid  0.602426  0.496945
+                BERT_CNN  0.716981  0.646215
+   BERT_BiLSTM_Attention  0.725067  0.662832
+             BERT_Hybrid  0.703504  0.627233
+   BERT_Hybrid_Augmented  0.727763  0.666783
+     SoftVoting_Ensemble  0.738544  0.680283
+
+Fold 4/5: fit=2360 inner_val=570 outer_eval=671 augmented=3282
+Majority: validation macro F1=0.2683
+TFIDF_NaiveBayes: validation macro F1=0.3553
+TFIDF_LogisticRegression: validation macro F1=0.5289
+TFIDF_LinearSVM: validation macro F1=0.5313
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights: 100%|##########| 199/199 [00:00<00:00, 2661.13it/s]
+BERT augmented: 24/3282
+BERT augmented: 984/3282
+BERT augmented: 1944/3282
+BERT augmented: 2904/3282
+Random_Hybrid epoch 01: loss=1.1498, val F1=0.4051
+Random_Hybrid epoch 02: loss=1.0259, val F1=0.4568
+Random_Hybrid epoch 03: loss=0.9326, val F1=0.4317
+Random_Hybrid epoch 04: loss=0.8719, val F1=0.4770
+Random_Hybrid epoch 05: loss=0.8049, val F1=0.4626
+Random_Hybrid epoch 06: loss=0.7293, val F1=0.4825
+Random_Hybrid epoch 07: loss=0.6839, val F1=0.5028
+Random_Hybrid epoch 08: loss=0.6425, val F1=0.5005
+Random_Hybrid epoch 09: loss=0.6167, val F1=0.4923
+Random_Hybrid epoch 10: loss=0.5649, val F1=0.4785
+Random_Hybrid epoch 11: loss=0.5532, val F1=0.4872
+BERT_CNN epoch 01: loss=0.9818, val F1=0.5843
+BERT_CNN epoch 02: loss=0.8223, val F1=0.5497
+BERT_CNN epoch 03: loss=0.7371, val F1=0.6229
+BERT_CNN epoch 04: loss=0.6615, val F1=0.5545
+BERT_CNN epoch 05: loss=0.6384, val F1=0.6081
+BERT_CNN epoch 06: loss=0.6132, val F1=0.5660
+BERT_CNN epoch 07: loss=0.5798, val F1=0.5551
+BERT_BiLSTM_Attention epoch 01: loss=0.9619, val F1=0.5666
+BERT_BiLSTM_Attention epoch 02: loss=0.7975, val F1=0.5873
+BERT_BiLSTM_Attention epoch 03: loss=0.7108, val F1=0.6154
+BERT_BiLSTM_Attention epoch 04: loss=0.6376, val F1=0.6097
+BERT_BiLSTM_Attention epoch 05: loss=0.5911, val F1=0.5496
+BERT_BiLSTM_Attention epoch 06: loss=0.5504, val F1=0.5738
+BERT_BiLSTM_Attention epoch 07: loss=0.4933, val F1=0.5759
+BERT_Hybrid epoch 01: loss=0.9689, val F1=0.5879
+BERT_Hybrid epoch 02: loss=0.8028, val F1=0.5518
+BERT_Hybrid epoch 03: loss=0.7201, val F1=0.6180
+BERT_Hybrid epoch 04: loss=0.6674, val F1=0.5782
+BERT_Hybrid epoch 05: loss=0.6062, val F1=0.5985
+BERT_Hybrid epoch 06: loss=0.5747, val F1=0.5819
+BERT_Hybrid epoch 07: loss=0.5269, val F1=0.5676
+BERT_Hybrid_Augmented epoch 01: loss=0.9056, val F1=0.6097
+BERT_Hybrid_Augmented epoch 02: loss=0.7426, val F1=0.6002
+BERT_Hybrid_Augmented epoch 03: loss=0.6625, val F1=0.6040
+BERT_Hybrid_Augmented epoch 04: loss=0.5960, val F1=0.6065
+BERT_Hybrid_Augmented epoch 05: loss=0.5401, val F1=0.5854
+Fold 4/5 COMPLETE in 121.2s. Outer scores:
+                   model  accuracy  f1_macro
+                Majority  0.596125  0.248988
+        TFIDF_NaiveBayes  0.597615  0.267628
+TFIDF_LogisticRegression  0.682563  0.595401
+         TFIDF_LinearSVM  0.700447  0.567590
+           Random_Hybrid  0.597615  0.525442
+                BERT_CNN  0.749627  0.659025
+   BERT_BiLSTM_Attention  0.742176  0.654344
+             BERT_Hybrid  0.746647  0.667065
+   BERT_Hybrid_Augmented  0.730253  0.627778
+     SoftVoting_Ensemble  0.745156  0.652116
+
+Fold 5/5: fit=2325 inner_val=607 outer_eval=669 augmented=3266
+Majority: validation macro F1=0.2429
+TFIDF_NaiveBayes: validation macro F1=0.2582
+TFIDF_LogisticRegression: validation macro F1=0.5771
+TFIDF_LinearSVM: validation macro F1=0.5390
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights: 100%|##########| 199/199 [00:00<00:00, 2512.99it/s]
+BERT augmented: 24/3266
+BERT augmented: 984/3266
+BERT augmented: 1944/3266
+BERT augmented: 2904/3266
+Random_Hybrid epoch 01: loss=1.1367, val F1=0.3430
+Random_Hybrid epoch 02: loss=1.0217, val F1=0.4065
+Random_Hybrid epoch 03: loss=0.9180, val F1=0.4878
+Random_Hybrid epoch 04: loss=0.8523, val F1=0.4917
+Random_Hybrid epoch 05: loss=0.7820, val F1=0.4674
+Random_Hybrid epoch 06: loss=0.6911, val F1=0.5290
+Random_Hybrid epoch 07: loss=0.6632, val F1=0.4857
+Random_Hybrid epoch 08: loss=0.6264, val F1=0.4844
+Random_Hybrid epoch 09: loss=0.5821, val F1=0.5143
+Random_Hybrid epoch 10: loss=0.5536, val F1=0.5037
+BERT_CNN epoch 01: loss=0.9825, val F1=0.5205
+BERT_CNN epoch 02: loss=0.7813, val F1=0.5985
+BERT_CNN epoch 03: loss=0.7052, val F1=0.5750
+BERT_CNN epoch 04: loss=0.6779, val F1=0.6405
+BERT_CNN epoch 05: loss=0.6345, val F1=0.6376
+BERT_CNN epoch 06: loss=0.5745, val F1=0.6377
+BERT_CNN epoch 07: loss=0.5511, val F1=0.6401
+BERT_CNN epoch 08: loss=0.5163, val F1=0.6036
+BERT_BiLSTM_Attention epoch 01: loss=0.9550, val F1=0.6061
+BERT_BiLSTM_Attention epoch 02: loss=0.7643, val F1=0.6161
+BERT_BiLSTM_Attention epoch 03: loss=0.6922, val F1=0.5931
+BERT_BiLSTM_Attention epoch 04: loss=0.6484, val F1=0.6302
+BERT_BiLSTM_Attention epoch 05: loss=0.5960, val F1=0.6472
+BERT_BiLSTM_Attention epoch 06: loss=0.5396, val F1=0.6602
+BERT_BiLSTM_Attention epoch 07: loss=0.4894, val F1=0.6602
+BERT_BiLSTM_Attention epoch 08: loss=0.4594, val F1=0.6420
+BERT_BiLSTM_Attention epoch 09: loss=0.4493, val F1=0.6422
+BERT_BiLSTM_Attention epoch 10: loss=0.4188, val F1=0.6468
+BERT_Hybrid epoch 01: loss=0.9650, val F1=0.5474
+BERT_Hybrid epoch 02: loss=0.7788, val F1=0.6199
+BERT_Hybrid epoch 03: loss=0.6989, val F1=0.5789
+BERT_Hybrid epoch 04: loss=0.6611, val F1=0.6366
+BERT_Hybrid epoch 05: loss=0.6215, val F1=0.6562
+BERT_Hybrid epoch 06: loss=0.5541, val F1=0.6472
+BERT_Hybrid epoch 07: loss=0.5225, val F1=0.6801
+BERT_Hybrid epoch 08: loss=0.4799, val F1=0.6333
+BERT_Hybrid epoch 09: loss=0.4673, val F1=0.6264
+BERT_Hybrid epoch 10: loss=0.4330, val F1=0.6230
+BERT_Hybrid epoch 11: loss=0.3961, val F1=0.6489
+BERT_Hybrid_Augmented epoch 01: loss=0.9047, val F1=0.5149
+BERT_Hybrid_Augmented epoch 02: loss=0.7264, val F1=0.6388
+BERT_Hybrid_Augmented epoch 03: loss=0.6595, val F1=0.6344
+BERT_Hybrid_Augmented epoch 04: loss=0.5998, val F1=0.6085
+BERT_Hybrid_Augmented epoch 05: loss=0.5494, val F1=0.6352
+BERT_Hybrid_Augmented epoch 06: loss=0.5133, val F1=0.6691
+BERT_Hybrid_Augmented epoch 07: loss=0.4663, val F1=0.6497
+BERT_Hybrid_Augmented epoch 08: loss=0.4271, val F1=0.6608
+BERT_Hybrid_Augmented epoch 09: loss=0.3911, val F1=0.6562
+BERT_Hybrid_Augmented epoch 10: loss=0.3664, val F1=0.6600
+Fold 5/5 COMPLETE in 165.1s. Outer scores:
+                   model  accuracy  f1_macro
+                Majority  0.642750  0.260843
+        TFIDF_NaiveBayes  0.654709  0.308076
+TFIDF_LogisticRegression  0.659193  0.534659
+         TFIDF_LinearSVM  0.701046  0.526684
+           Random_Hybrid  0.635277  0.522997
+                BERT_CNN  0.653214  0.595891
+   BERT_BiLSTM_Attention  0.677130  0.580692
+             BERT_Hybrid  0.704036  0.611758
+   BERT_Hybrid_Augmented  0.663677  0.582126
+     SoftVoting_Ensemble  0.677130  0.600775
+CV SELECTION FROZEN BEFORE TEST: SoftVoting_Ensemble
+                   model  f1_macro_mean  f1_macro_std
+     SoftVoting_Ensemble       0.639378      0.029333
+   BERT_BiLSTM_Attention       0.629260      0.032449
+                BERT_CNN       0.624812      0.027082
+             BERT_Hybrid       0.623414      0.027994
+   BERT_Hybrid_Augmented       0.620660      0.030727
+TFIDF_LogisticRegression       0.573310      0.023274
+         TFIDF_LinearSVM       0.545428      0.031053
+           Random_Hybrid       0.517113      0.011502
+        TFIDF_NaiveBayes       0.284923      0.018344
+                Majority       0.250243      0.007440
+                   model  accuracy  precision_macro  recall_macro  f1_macro  f1_weighted  roc_auc_ovr_macro
+                Majority  0.650000         0.216667      0.333333  0.262626     0.512121           0.500000
+        TFIDF_NaiveBayes  0.658929         0.794969      0.350340  0.296986     0.532811           0.844265
+TFIDF_LogisticRegression  0.736607         0.629292      0.617609  0.618608     0.727993           0.853166
+         TFIDF_LinearSVM  0.738393         0.688077      0.548927  0.561808     0.697096           0.847415
+           Random_Hybrid  0.685714         0.561355      0.534341  0.543896     0.672144           0.773691
+                BERT_CNN  0.777679         0.676552      0.662284  0.661317     0.765395           0.886203
+   BERT_BiLSTM_Attention  0.795536         0.705018      0.687598  0.686844     0.782674           0.892119
+             BERT_Hybrid  0.783036         0.682555      0.665031  0.663232     0.768243           0.889265
+   BERT_Hybrid_Augmented  0.799107         0.721633      0.677002  0.690835     0.785187           0.895292
+     SoftVoting_Ensemble  0.797321         0.712451      0.681057  0.687952     0.783536           0.898232
+FULL CV COMPLETE: 860.9s

@@ -1,0 +1,23 @@
+{
+  "counts": {
+    "original": 2291,
+    "synonym": 637,
+    "restricted_deletion": 314
+  },
+  "features": {
+    "model": "bert-base-uncased",
+    "revision": "86b5e0934494bd15c9632b12f734a8a67f723594",
+    "frozen": true,
+    "hidden_size": 768,
+    "vocab_size": 30522,
+    "pair_format": "[CLS] aspect [SEP] review [SEP]",
+    "splits": {
+      "augmented": {
+        "rows": 3242,
+        "truncated": 0,
+        "seconds": 9.62337899999693,
+        "fingerprint": "b4bbc6a2a5b67da2ef60"
+      }
+    }
+  }
+}

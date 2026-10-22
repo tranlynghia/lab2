@@ -1,0 +1,15 @@
+{
+  "model_train_and_predict_seconds": {
+    "Majority": 0.4174670999927912,
+    "TFIDF_NaiveBayes": 0.3789356999914162,
+    "TFIDF_LogisticRegression": 0.6913127000152599,
+    "TFIDF_LinearSVM": 1.2758451999980025,
+    "Random_Hybrid": 63.771215099986875,
+    "BERT_CNN": 25.262565699988045,
+    "BERT_BiLSTM_Attention": 34.827038699993864,
+    "BERT_Hybrid": 75.3252252000093,
+    "BERT_Hybrid_Augmented": 78.98339750000741
+  },
+  "total_seconds": 329.00245210001594,
+  "bert_feature_seconds": 34.11723720000009
+}

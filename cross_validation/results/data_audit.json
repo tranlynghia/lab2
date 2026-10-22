@@ -1,0 +1,50 @@
+{
+  "source_sha256": {
+    "restaurant_aspect_test.csv": "3587659f0893744a8e57ff0d97d83638ceb6b616105201ccd051abe0c3263788",
+    "restaurant_aspect_train.csv": "e425618c097f6cba94fa22c92c87b773e924054dafc4f4173c9adfbcbdac69e7"
+  },
+  "original_train": 3602,
+  "removed_overlap": 1,
+  "development": 3601,
+  "test": 1120,
+  "labels": [
+    "negative",
+    "neutral",
+    "positive"
+  ],
+  "folds": [
+    {
+      "fold": 1,
+      "inner_fit": 2291,
+      "inner_validation": 559,
+      "outer_evaluation": 751
+    },
+    {
+      "fold": 2,
+      "inner_fit": 2245,
+      "inner_validation": 588,
+      "outer_evaluation": 768
+    },
+    {
+      "fold": 3,
+      "inner_fit": 2298,
+      "inner_validation": 561,
+      "outer_evaluation": 742
+    },
+    {
+      "fold": 4,
+      "inner_fit": 2360,
+      "inner_validation": 570,
+      "outer_evaluation": 671
+    },
+    {
+      "fold": 5,
+      "inner_fit": 2325,
+      "inner_validation": 607,
+      "outer_evaluation": 669
+    }
+  ],
+  "selection": "highest mean outer-fold macro F1; test is not a selection input",
+  "early_stopping": "inner validation only; no refit on all outer training rows",
+  "final_test": "equal probability average of five fold estimators for each method"
+}

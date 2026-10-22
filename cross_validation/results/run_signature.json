@@ -1,0 +1,26 @@
+{
+  "config": {
+    "seed": 42,
+    "epochs": 20,
+    "patience": 4,
+    "batch_size": 64,
+    "feature_batch_size": 24,
+    "max_length": 96,
+    "learning_rate": 0.001,
+    "bert_model": "bert-base-uncased",
+    "local_files_only": true,
+    "device": "auto",
+    "threads": 4
+  },
+  "source_sha256": {
+    "restaurant_aspect_test.csv": "3587659f0893744a8e57ff0d97d83638ceb6b616105201ccd051abe0c3263788",
+    "restaurant_aspect_train.csv": "e425618c097f6cba94fa22c92c87b773e924054dafc4f4173c9adfbcbdac69e7"
+  },
+  "code_sha256": {
+    "run_cross_validation.py": "84413f1c8acea27ef0907b46ca0a1fd2ba19ce34f85262f919971a9e9f5ed6d0",
+    "run_experiment.py": "34c4dbe98a535d8ab202147f29a4054d8f6cc43b6aefd6b2d4f88c07e91137d8",
+    "data_utils.py": "f7844309c24057b059301cf09ef380fcbcc6c74d0bad3c435ba196a3e8f2c32d",
+    "networks.py": "8991922ce05930d8dddf1ab1f1e4120834217a931e445d0e16ba38202846b8c3"
+  },
+  "protocol": "5 outer grouped folds; one inner grouped holdout; no outer-label tuning"
+}

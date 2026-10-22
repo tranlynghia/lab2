@@ -1,0 +1,50 @@
+{
+  "raw_train_aspects": 3602,
+  "raw_test_aspects": 1120,
+  "removed_train_overlap": 1,
+  "seed": 42,
+  "split_method": "first fold of StratifiedGroupKFold(5), group=normalized sentence",
+  "labels": [
+    "negative",
+    "neutral",
+    "positive"
+  ],
+  "source_sha256": {
+    "restaurant_aspect_test.csv": "3587659f0893744a8e57ff0d97d83638ceb6b616105201ccd051abe0c3263788",
+    "restaurant_aspect_train.csv": "e425618c097f6cba94fa22c92c87b773e924054dafc4f4173c9adfbcbdac69e7"
+  },
+  "splits": {
+    "train": {
+      "rows": 2850,
+      "sentences": 1567,
+      "classes": {
+        "positive": 1723,
+        "negative": 626,
+        "neutral": 501
+      }
+    },
+    "validation": {
+      "rows": 751,
+      "sentences": 408,
+      "classes": {
+        "positive": 440,
+        "negative": 179,
+        "neutral": 132
+      }
+    },
+    "test": {
+      "rows": 1120,
+      "sentences": 600,
+      "classes": {
+        "positive": 728,
+        "neutral": 196,
+        "negative": 196
+      }
+    }
+  },
+  "augmentation": {
+    "original": 2850,
+    "synonym": 786,
+    "restricted_deletion": 391
+  }
+}

@@ -1,0 +1,752 @@
+row_id,sentence_id,text,aspect,label,predicted,p_negative,p_neutral,p_positive
+2777:1,2777,"To be completely fair, the only redeeming factor was the food, which was above average, but couldn't make up for all the other deficiencies of Teodora.",food,positive,negative,0.8341671,0.0073620984,0.15847082
+2846:5,2846,"Not only was the food outstanding, but the little 'perks' were great.",food,positive,positive,0.02783327,0.23841956,0.7337471
+2846:6,2846,"Not only was the food outstanding, but the little 'perks' were great.",perks,positive,positive,0.014895528,0.10072334,0.8843811
+1458:7,1458,Our agreed favorite is the orrechiete with sausage and chicken (usually the waiters are kind enough to split the dish in half so you get to sample both meats).,orrechiete with sausage and chicken,positive,positive,0.008687985,0.06589185,0.92542017
+1458:8,1458,Our agreed favorite is the orrechiete with sausage and chicken (usually the waiters are kind enough to split the dish in half so you get to sample both meats).,waiters,positive,positive,0.0026709111,0.16231854,0.8350106
+1458:9,1458,Our agreed favorite is the orrechiete with sausage and chicken (usually the waiters are kind enough to split the dish in half so you get to sample both meats).,meats,neutral,positive,0.04147587,0.37374595,0.5847782
+1458:10,1458,Our agreed favorite is the orrechiete with sausage and chicken (usually the waiters are kind enough to split the dish in half so you get to sample both meats).,dish,neutral,neutral,0.06253064,0.54215616,0.3953132
+3359:25,3359,The pizza is the best if you like thin crusted pizza.,pizza,positive,positive,0.002262277,0.3677672,0.6299705
+3359:26,3359,The pizza is the best if you like thin crusted pizza.,thin crusted pizza,neutral,positive,0.0003867874,0.37346587,0.6261474
+425:47,425,The price is reasonable although the service is poor.,price,positive,positive,0.25435054,0.09014574,0.6555037
+425:48,425,The price is reasonable although the service is poor.,service,negative,negative,0.71192276,0.07464299,0.21343426
+2783:68,2783,This is a consistently great place to dine for lunch or dinner.,lunch,neutral,neutral,0.0008487747,0.8895257,0.10962555
+2783:69,2783,This is a consistently great place to dine for lunch or dinner.,dinner,neutral,neutral,0.0059253327,0.70849925,0.2855754
+2783:70,2783,This is a consistently great place to dine for lunch or dinner.,dine,positive,positive,0.0063928734,0.44611025,0.54749686
+2983:71,2983,"Nice atmosphere, the service was very pleasant and the desert was good.",atmosphere,positive,positive,0.0037282275,0.00065355346,0.9956182
+2983:72,2983,"Nice atmosphere, the service was very pleasant and the desert was good.",service,positive,positive,0.0015890235,0.00044090487,0.99797004
+2983:73,2983,"Nice atmosphere, the service was very pleasant and the desert was good.",desert,positive,positive,0.00035093364,4.937163e-05,0.99959975
+627:74,627,After really enjoying ourselves at the bar we sat down at a table and had dinner.,bar,positive,neutral,0.014734926,0.9232862,0.06197892
+627:75,627,After really enjoying ourselves at the bar we sat down at a table and had dinner.,table,neutral,neutral,0.028310942,0.9057938,0.06589523
+627:76,627,After really enjoying ourselves at the bar we sat down at a table and had dinner.,dinner,neutral,neutral,0.0019795846,0.9820663,0.015954075
+604:82,604,I liked the beer selection!,beer selection,positive,positive,0.00050944166,0.0015654794,0.99792516
+3436:95,3436,The menu is limited but almost all of the dishes are excellent.,menu,negative,positive,0.036876667,0.47210103,0.49102235
+3436:96,3436,The menu is limited but almost all of the dishes are excellent.,dishes,positive,positive,0.015896728,0.2745963,0.70950705
+3273:97,3273,Not too crazy about their sake martini.,sake martini,negative,positive,0.4256713,0.040227637,0.534101
+3207:102,3207,We always have a delicious meal and always leave feeling satisfied.,meal,positive,positive,0.00032871103,0.027821597,0.9718497
+3155:109,3155,They are often crowded on the weekends but they are efficient and accurate with their service.,service,positive,positive,0.15998991,0.006403399,0.83360666
+3155:110,3155,They are often crowded on the weekends but they are efficient and accurate with their service.,crowded,negative,positive,0.39280832,0.053652707,0.553539
+2604:121,2604,Right off the L in Brooklyn this is a nice cozy place with good pizza.,pizza,positive,positive,2.6779958e-06,0.0006080106,0.9993894
+2604:122,2604,Right off the L in Brooklyn this is a nice cozy place with good pizza.,place,positive,positive,0.000114809925,0.008011058,0.99187416
+2936:128,2936,The strong scents coming from the left and right of me negatively affected my taste buds.,scents,negative,negative,0.62948424,0.0050959177,0.36541983
+2274:131,2274,"Though the Spider Roll may look like a challenge to eat, with soft shell crab hanging out of the roll, it is well worth the price you pay for them.",price,positive,negative,0.91672724,0.040926035,0.04234675
+2274:132,2274,"Though the Spider Roll may look like a challenge to eat, with soft shell crab hanging out of the roll, it is well worth the price you pay for them.",shell crab,positive,negative,0.9658581,0.01242253,0.02171946
+194:134,194,"I have tried to make reservations, but both times, the hostess didn't have my name.",reservations,neutral,neutral,0.18180433,0.79249907,0.025696626
+194:135,194,"I have tried to make reservations, but both times, the hostess didn't have my name.",hostess,negative,negative,0.68339354,0.09080061,0.22580583
+2747:138,2747,Their tuna tartar appetizer is to die for.,tuna tartar appetizer,positive,positive,0.028663369,0.1001095,0.87122715
+1402:147,1402,I love Indian food and consider myself to be quite an expert on it.,Indian food,positive,neutral,0.00082230085,0.68050355,0.31867412
+2053:149,2053,Overall A oh ya even though there is waiting it is deff worth it,waiting,negative,positive,0.21401817,0.24093327,0.54504853
+1549:155,1549,Lahore is a great place to duck into late-night when you need some really tasty food on the cheap -- you'll likely have trouble finishing the amount of food you get for FOUR DOLLARS.,food,positive,neutral,0.3437278,0.58748734,0.06878487
+1549:156,1549,Lahore is a great place to duck into late-night when you need some really tasty food on the cheap -- you'll likely have trouble finishing the amount of food you get for FOUR DOLLARS.,food,positive,neutral,0.3437278,0.58748734,0.06878487
+2921:160,2921,Not impressed with the food.,food,negative,neutral,0.13029146,0.8402042,0.029504325
+173:168,173,"Food is usually very good, though ocasionally I wondered about freshmess of raw vegatables in side orders.",raw vegatables,negative,neutral,0.080928534,0.7018077,0.21726379
+2385:183,2385,I've been coming here as a child and always come back for the taste.,taste,positive,positive,0.027263287,0.08723191,0.8855048
+2498:184,2498,Tuk Tuk is one of those comfortable neighborhood joints where you know you will always have a good meal at a fair price.,meal,positive,positive,0.0036499382,0.014821863,0.98152816
+2498:185,2498,Tuk Tuk is one of those comfortable neighborhood joints where you know you will always have a good meal at a fair price.,price,positive,positive,0.118749276,0.062857255,0.8183934
+2469:186,2469,"A glass of Leaping Lizard, a glass of prosecco, and the mussels had everything happy.",glass of prosecco,positive,positive,0.0034343933,0.24301901,0.75354666
+2469:187,2469,"A glass of Leaping Lizard, a glass of prosecco, and the mussels had everything happy.",mussels,positive,positive,6.6027744e-05,0.00012064594,0.9998134
+2469:188,2469,"A glass of Leaping Lizard, a glass of prosecco, and the mussels had everything happy.",glass of Leaping Lizard,positive,positive,0.012187315,0.20498037,0.7828323
+3517:192,3517,The food always tastes fresh and served promptly.,food,positive,positive,0.0016100963,0.019594628,0.97879523
+3517:193,3517,The food always tastes fresh and served promptly.,served,positive,positive,0.0051041483,0.009265263,0.9856306
+1743:204,1743,"The pizza is delicious - they use fresh mozzarella instead of the cheap, frozen, shredded cheese common to most pizzaria's.",pizza,positive,positive,0.018231709,0.061858192,0.91991013
+1743:205,1743,"The pizza is delicious - they use fresh mozzarella instead of the cheap, frozen, shredded cheese common to most pizzaria's.",fresh mozzarella,positive,positive,0.025885638,0.04286867,0.9312458
+1743:206,1743,"The pizza is delicious - they use fresh mozzarella instead of the cheap, frozen, shredded cheese common to most pizzaria's.",cheese,negative,positive,0.09666051,0.17181587,0.73152363
+709:215,709,"What is even better, is that the prices are very affordable as well, and the food is really good.",prices,positive,positive,0.0067042233,0.04331255,0.9499833
+709:216,709,"What is even better, is that the prices are very affordable as well, and the food is really good.",food,positive,positive,0.0005839867,0.023668846,0.9757471
+1110:223,1110,"And Kruno, the beverage manager is the best bartender I have yet to come across.",bartender,positive,positive,0.009657086,0.28223383,0.708109
+1110:224,1110,"And Kruno, the beverage manager is the best bartender I have yet to come across.",beverage manager,positive,positive,0.0012273594,0.083162084,0.91561055
+3686:241,3686,"Eating in, the atmosphere saves it, but at your desk, it's a very disappointing experience.",atmosphere,positive,negative,0.9645563,0.0078019225,0.027641788
+1830:248,1830,"Even after getting pushed out by the no-class Famous Ray's, Sal has risen again to carry on his father's uncle's legacies with a smile, true love for his community, and let's not forget the Outstanding Pizza!",Pizza,positive,positive,9.3240735e-05,0.0033122394,0.9965945
+887:254,887,What came to our table was burned beyond recognition and stringy.,table,neutral,negative,0.96539927,0.028593777,0.006006918
+809:278,809,would have rather tried terrace in the sky or water club for that price,price,negative,negative,0.4901166,0.20142828,0.30845505
+3202:296,3202,"We are very particular about sushi and were both please with every choice which included: ceviche mix (special), crab dumplings, assorted sashimi, sushi and rolls, two types of sake, and the banana tempura.",sushi,positive,neutral,0.00076903775,0.8680908,0.1311402
+3202:297,3202,"We are very particular about sushi and were both please with every choice which included: ceviche mix (special), crab dumplings, assorted sashimi, sushi and rolls, two types of sake, and the banana tempura.",ceviche mix (special),positive,positive,0.0002791384,0.038335968,0.9613849
+3202:298,3202,"We are very particular about sushi and were both please with every choice which included: ceviche mix (special), crab dumplings, assorted sashimi, sushi and rolls, two types of sake, and the banana tempura.",crab dumplings,positive,positive,0.0057366597,0.020279376,0.97398394
+3202:299,3202,"We are very particular about sushi and were both please with every choice which included: ceviche mix (special), crab dumplings, assorted sashimi, sushi and rolls, two types of sake, and the banana tempura.",assorted sashimi,positive,positive,0.0008811198,0.15322281,0.845896
+3202:300,3202,"We are very particular about sushi and were both please with every choice which included: ceviche mix (special), crab dumplings, assorted sashimi, sushi and rolls, two types of sake, and the banana tempura.",sushi,positive,neutral,0.00076903775,0.8680908,0.1311402
+3202:301,3202,"We are very particular about sushi and were both please with every choice which included: ceviche mix (special), crab dumplings, assorted sashimi, sushi and rolls, two types of sake, and the banana tempura.",rolls,positive,positive,0.0023312576,0.21817428,0.7794945
+3202:302,3202,"We are very particular about sushi and were both please with every choice which included: ceviche mix (special), crab dumplings, assorted sashimi, sushi and rolls, two types of sake, and the banana tempura.",sake,positive,neutral,0.0034614906,0.697914,0.29862455
+3202:303,3202,"We are very particular about sushi and were both please with every choice which included: ceviche mix (special), crab dumplings, assorted sashimi, sushi and rolls, two types of sake, and the banana tempura.",banana tempura,positive,positive,0.007470257,0.24711348,0.7454163
+927:307,927,"Ok, so the servers wander around a little clueless, but there's more than enough servers for the crowd they get -- it's fine, you just have to make a small effort to get their attention.",servers,negative,negative,0.68513495,0.2936199,0.021245126
+2078:329,2078,I recently went to this restaurant with some co-workers for lunch and had an amazing time.,lunch,neutral,neutral,0.0011320472,0.9644487,0.034419294
+2649:361,2649,This is a nice restaurant if you are looking for a good place to host an intimate dinner meeting with business associates.,dinner meeting,neutral,positive,0.0018585863,0.36965826,0.6284832
+3477:366,3477,Joya used to be a cool spot with decent food and a colorful - if not relaxed - atmosphere.,food,positive,positive,0.0021924493,0.0036350458,0.9941725
+3477:367,3477,Joya used to be a cool spot with decent food and a colorful - if not relaxed - atmosphere.,atmosphere,positive,positive,0.017254364,0.0059331255,0.97681254
+298:371,298,I've been here 3 times for lunch and it is one of my favorites in the city.,lunch,neutral,neutral,0.00019968837,0.85099274,0.14880754
+2790:376,2790,Too bad the food wasn't of the same heritage.,food,negative,negative,0.98590183,0.0057934164,0.008304636
+1950:404,1950,I went to Del Frisco's Friday night with my boyfriend for an 8:00 reservation.,reservation,neutral,neutral,0.0022141824,0.99260324,0.005182564
+3042:413,3042,"We have never had any problems with charging the meal or the tip, and the food was delivered quickly, but we live only a few minutes walk from them.",meal,positive,neutral,0.27370474,0.49283397,0.23346132
+3042:414,3042,"We have never had any problems with charging the meal or the tip, and the food was delivered quickly, but we live only a few minutes walk from them.",food,positive,neutral,0.25108227,0.44055006,0.30836764
+3042:415,3042,"We have never had any problems with charging the meal or the tip, and the food was delivered quickly, but we live only a few minutes walk from them.",tip,positive,neutral,0.26355007,0.45670035,0.2797496
+3255:424,3255,One of the earlier people commenting on the restaurant did not get the that some experimenting is going on with the menu in a positive way.,menu,positive,neutral,0.043397736,0.9496856,0.0069166576
+2062:428,2062,just got back from lunch at Tamarind and it was excellent.,lunch,positive,neutral,0.0010632144,0.77870566,0.22023119
+1957:433,1957,Try the cheesecake!,cheesecake,positive,positive,0.008555003,0.0030613001,0.9883837
+1542:434,1542,As we were sitting eating the subpar food the manager proceeded to berate a couple of his employees for putting out the wrong containers for condiments and explained to them how expensive these containers were.,food,negative,neutral,0.08441657,0.9104298,0.005153633
+1542:435,1542,As we were sitting eating the subpar food the manager proceeded to berate a couple of his employees for putting out the wrong containers for condiments and explained to them how expensive these containers were.,employees,negative,negative,0.72831774,0.24406646,0.027615786
+1542:436,1542,As we were sitting eating the subpar food the manager proceeded to berate a couple of his employees for putting out the wrong containers for condiments and explained to them how expensive these containers were.,containers for condiments,negative,neutral,0.080416135,0.9168945,0.002689384
+1542:437,1542,As we were sitting eating the subpar food the manager proceeded to berate a couple of his employees for putting out the wrong containers for condiments and explained to them how expensive these containers were.,containers,neutral,negative,0.5567785,0.43441996,0.008801516
+1542:438,1542,As we were sitting eating the subpar food the manager proceeded to berate a couple of his employees for putting out the wrong containers for condiments and explained to them how expensive these containers were.,manager,negative,negative,0.7527928,0.20860052,0.038606722
+791:453,791,The waiters were not attentive except that the bill turned up on the table before we were finished.,waiters,negative,negative,0.94112116,0.01652194,0.042356893
+791:454,791,The waiters were not attentive except that the bill turned up on the table before we were finished.,bill,negative,negative,0.73982435,0.22049932,0.03967633
+45:461,45,Ive been here a bunch of times now and the service is always outstanding.,service,positive,positive,0.0031455625,0.2867615,0.7100929
+2479:477,2479,We visited Bread Bar during January restaurant week and were so pleased with the menu selections and service.,menu selections,positive,positive,0.00026660349,0.05344923,0.94628423
+2479:478,2479,We visited Bread Bar during January restaurant week and were so pleased with the menu selections and service.,service,positive,neutral,0.011669487,0.5499839,0.4383466
+1270:493,1270,Plain and simple it's bad thai food.,thai food,negative,negative,0.9637926,0.017021159,0.019186223
+1817:506,1817,Food-awesome.,Food,positive,positive,0.00017186835,0.021418013,0.97841007
+1971:513,1971,The sides were ok and incredibly salty.,sides,negative,positive,0.397318,0.10883157,0.4938505
+2900:517,2900,"The beverages were excellent, and the dessert was good.",beverages,positive,positive,0.00021259014,0.00091423723,0.9988732
+2900:518,2900,"The beverages were excellent, and the dessert was good.",dessert,positive,positive,9.696453e-06,0.00035811076,0.99963224
+2896:526,2896,"When going out for a nice dinner, I like a nice ambiance as well as very good food.",dinner,positive,positive,0.0047901925,0.097107746,0.89810205
+2896:527,2896,"When going out for a nice dinner, I like a nice ambiance as well as very good food.",ambiance,positive,positive,2.9343362e-05,0.00086192024,0.99910873
+2896:528,2896,"When going out for a nice dinner, I like a nice ambiance as well as very good food.",food,positive,positive,0.0006379349,0.008911862,0.9904502
+1125:541,1125,"The music does get a little loud at times, but it just made me want to lean closer to my beautiful wife, and as I did, I got a whiff of corriander.",corriander,neutral,positive,0.0044732485,0.07959504,0.91593176
+2452:545,2452,"The seating was if they were trying to get the maximum amount of people into the restaurant, so be nice to your neighbor when you dine here.",seating,negative,neutral,0.3183336,0.6105537,0.07111271
+823:562,823,"Also good for client lunch meetings, esp.",lunch meetings,neutral,positive,0.00075054105,0.05779742,0.94145197
+2840:570,2840,"Terrible, terrible management - deserves to be shut-down.",management,negative,negative,0.98594934,0.00024291538,0.013807693
+1049:579,1049,Mizu is home to creative and unique rolls not to found anywhere else.,rolls,positive,positive,0.00010756302,0.00018187832,0.9997105
+3320:580,3320,Baluchi's has solid food and a nice decor at reasonable prices.,food,positive,positive,0.0012405526,0.050903905,0.9478556
+3320:581,3320,Baluchi's has solid food and a nice decor at reasonable prices.,decor,positive,positive,0.0002874012,0.0064350422,0.9932776
+3320:582,3320,Baluchi's has solid food and a nice decor at reasonable prices.,prices,positive,positive,0.0009164363,0.019018577,0.98006505
+2397:584,2397,I have been to spice three times- twice during lunch and once at dinner.,lunch,neutral,neutral,0.00017149223,0.97055525,0.029273307
+2397:585,2397,I have been to spice three times- twice during lunch and once at dinner.,dinner,neutral,neutral,0.000100765625,0.9872236,0.012675579
+1362:603,1362,"Really though, where's the seasoning?",seasoning,negative,positive,0.012684568,0.26266557,0.72464985
+2627:608,2627,"The ambience was nice, but service wasn't so great.",ambience,positive,positive,0.00031664822,0.00064395106,0.99903935
+2627:609,2627,"The ambience was nice, but service wasn't so great.",service,negative,negative,0.834171,0.06730311,0.09852584
+3189:619,3189,The location and ambience is Ok but the food is what makes up for it.,location,neutral,negative,0.42970484,0.2538954,0.3163998
+3189:620,3189,The location and ambience is Ok but the food is what makes up for it.,ambience,neutral,neutral,0.026400154,0.49400082,0.47959906
+3189:621,3189,The location and ambience is Ok but the food is what makes up for it.,food,positive,neutral,0.10415161,0.79708046,0.09876791
+1103:624,1103,"The dinner was ok, nothing I would have again.",dinner,negative,neutral,0.015277641,0.98360217,0.0011202005
+1622:636,1622,The portions are large and the servers always surprise us with a different starter.,portions,positive,negative,0.8055897,0.09154777,0.1028625
+1622:637,1622,The portions are large and the servers always surprise us with a different starter.,servers,positive,negative,0.7689263,0.15128633,0.07978727
+1622:638,1622,The portions are large and the servers always surprise us with a different starter.,starter,positive,negative,0.48789915,0.41235715,0.09974378
+1592:643,1592,Our server was very helpful and friendly.,server,positive,positive,0.0014727697,0.00041057516,0.9981166
+2770:645,2770,"First of all, this place is *not* romantic, as claimed by Citysearch's editorial review.",place,negative,negative,0.80265605,0.064713895,0.13263004
+445:647,445,Much more reasonably priced too!,priced,positive,positive,0.04810958,0.007649642,0.9442408
+1331:650,1331,Why make a reservation if you aren't going to keep it?,reservation,negative,negative,0.761944,0.23624785,0.0018081669
+2497:651,2497,"The Pad Thai is excellent here, as well.",Pad Thai,positive,positive,1.1223973e-05,9.316603e-05,0.9998956
+1316:655,1316,"The food is o.k., but not any better than what you get at a good neighborhood restaurant.",food,neutral,neutral,0.10464266,0.6426055,0.25275186
+908:662,908,"Orsay, is without a doubt one of the best values for authentic French food in NYC.",French food,positive,positive,0.022146767,0.1219115,0.8559417
+2170:665,2170,The staff is no nonsense.,staff,positive,neutral,0.010613423,0.86668944,0.12269716
+1884:675,1884,"The menu was impressive with selections ranging from a burger, to steak, to escargot.",menu,positive,positive,0.036015905,0.050604377,0.9133797
+1884:676,1884,"The menu was impressive with selections ranging from a burger, to steak, to escargot.",burger,neutral,positive,0.13946976,0.16607507,0.69445515
+1884:677,1884,"The menu was impressive with selections ranging from a burger, to steak, to escargot.",steak,neutral,positive,0.12109866,0.1991327,0.6797687
+1884:678,1884,"The menu was impressive with selections ranging from a burger, to steak, to escargot.",escargot,neutral,positive,0.009540751,0.38286886,0.6075904
+2802:681,2802,Good for casual dinner with jeans and sneakers.,casual dinner,positive,negative,0.7501805,0.011077342,0.23874219
+932:692,932,It took them 25 minutes to bring our appetizer.,appetizer,neutral,neutral,0.0018825597,0.99266535,0.00545206
+776:693,776,The food was great.,food,positive,positive,0.00028764835,0.013047946,0.9866644
+539:704,539,The restaurant is rather small but we were lucky to get a table quickly.,table,positive,negative,0.6587603,0.14259839,0.19864133
+3582:716,3582,"But, they were too big for the bun.",bun,neutral,negative,0.92153996,0.02899782,0.049462155
+2152:723,2152,The bagels are fabulous.,bagels,positive,positive,2.9516773e-06,0.0305289,0.9694681
+2893:741,2893,"Saturday, Nov. 6th I had a group from work come in with about 35 people and the staff was amazing to accomodate us.",staff,positive,positive,0.016985184,0.14957023,0.8334446
+1013:765,1013,By far this is the only chinese desserts place I know in NY or anywhere close in the Northeastern America that serves desserts with frog jelly in a couple of varieties and pig feet ginger simmered in black vinegar.,pig feet ginger simmered in black vinegar,positive,positive,0.00019224657,0.008095516,0.9917122
+1013:766,1013,By far this is the only chinese desserts place I know in NY or anywhere close in the Northeastern America that serves desserts with frog jelly in a couple of varieties and pig feet ginger simmered in black vinegar.,desserts with frog jelly,positive,positive,0.001994185,0.07309797,0.92490786
+193:767,193,The food is great and reasonably priced.,food,positive,positive,0.00019006968,0.02351674,0.9762932
+193:768,193,The food is great and reasonably priced.,priced,positive,positive,0.0009922573,0.024597319,0.9744105
+2280:772,2280,"The restuarant itself is not large, but seems to have several round tables to accomodate large groups hoping to save a buck to eat authentic Taiwanese.",round tables,positive,negative,0.7459105,0.24151309,0.012576399
+2280:773,2280,"The restuarant itself is not large, but seems to have several round tables to accomodate large groups hoping to save a buck to eat authentic Taiwanese.",Taiwanese,positive,neutral,0.3029306,0.6665461,0.030523261
+1707:775,1707,"It is the type of place to run into old friends and have a late, raucus dinner.",dinner,positive,positive,0.23600751,0.20980142,0.55419105
+667:780,667,Prices are in line.,Prices,neutral,neutral,0.0018915057,0.8954055,0.10270303
+1548:794,1548,"The food is terrible and overall, I would have to say avoid at all costs.",food,negative,negative,0.81507266,0.14415094,0.040776394
+1550:796,1550,"It's constantly open, catering to the Pakistani cabbies lined up on Crosby St., so there's more turnover with the food than you'd expect (i.e., surprisingly fresh).",food,positive,positive,0.024093356,0.44273156,0.5331751
+2891:821,2891,"Over the years, it has always provided a pleasurable dining experience with quality food and wine.",food,positive,positive,0.00014552903,0.001684311,0.99817014
+2891:822,2891,"Over the years, it has always provided a pleasurable dining experience with quality food and wine.",wine,positive,positive,7.7747405e-05,0.0021804895,0.9977417
+2891:823,2891,"Over the years, it has always provided a pleasurable dining experience with quality food and wine.",dining,positive,positive,1.0409303e-05,0.0001173419,0.9998723
+3414:828,3414,I cannot imagine better Indian food in all of the city.,Indian food,positive,positive,0.009695807,0.09992432,0.89037985
+3554:835,3554,"if this happens, just ask for real naan.",naan,neutral,neutral,0.024543282,0.9526386,0.022818116
+3492:838,3492,"Pizza is terrific, as is homemade pasta.",Pizza,positive,positive,0.000105015046,0.029713318,0.9701817
+3492:839,3492,"Pizza is terrific, as is homemade pasta.",homemade pasta,positive,positive,9.006691e-05,0.00023411383,0.99967575
+2912:852,2912,"The dishes offered were unique, very tasty and fresh from the lamb sausages, sardines with biscuits, large whole shrimp to the amazing pistachio ice cream (the best and freshest I've ever had).",dishes,positive,positive,0.0012129528,0.00566386,0.99312323
+2912:853,2912,"The dishes offered were unique, very tasty and fresh from the lamb sausages, sardines with biscuits, large whole shrimp to the amazing pistachio ice cream (the best and freshest I've ever had).",lamb sausages,positive,positive,0.00041516894,0.0005674475,0.99901736
+2912:854,2912,"The dishes offered were unique, very tasty and fresh from the lamb sausages, sardines with biscuits, large whole shrimp to the amazing pistachio ice cream (the best and freshest I've ever had).",sardines with biscuits,positive,positive,8.1834696e-05,0.003718672,0.99619955
+2912:855,2912,"The dishes offered were unique, very tasty and fresh from the lamb sausages, sardines with biscuits, large whole shrimp to the amazing pistachio ice cream (the best and freshest I've ever had).",large whole shrimp,positive,positive,0.00065862027,0.0011491544,0.99819225
+2912:856,2912,"The dishes offered were unique, very tasty and fresh from the lamb sausages, sardines with biscuits, large whole shrimp to the amazing pistachio ice cream (the best and freshest I've ever had).",pistachio ice cream,positive,positive,1.3859606e-05,0.0005839429,0.9994023
+727:868,727,"Planet Thailand has always been a hit with me , I go there usually for the sushi, which is great , the thai food is excellent too .",sushi,positive,positive,0.00060797064,0.24237673,0.75701535
+727:869,727,"Planet Thailand has always been a hit with me , I go there usually for the sushi, which is great , the thai food is excellent too .",thai food,positive,positive,3.290249e-05,0.0009487605,0.9990183
+1940:884,1940,"Super friendly and knowledgable staff, fabulous bistro fare and a wonderful jazz brunch with great live jazz (the chilaquiles were awesome!",staff,positive,positive,0.00036557988,0.0008737344,0.9987606
+1940:885,1940,"Super friendly and knowledgable staff, fabulous bistro fare and a wonderful jazz brunch with great live jazz (the chilaquiles were awesome!",bistro fare,positive,positive,2.7490546e-06,0.0004824001,0.9995148
+1940:886,1940,"Super friendly and knowledgable staff, fabulous bistro fare and a wonderful jazz brunch with great live jazz (the chilaquiles were awesome!",chilaquiles,positive,positive,5.9093916e-05,0.00048542,0.9994555
+1940:887,1940,"Super friendly and knowledgable staff, fabulous bistro fare and a wonderful jazz brunch with great live jazz (the chilaquiles were awesome!",jazz brunch,positive,positive,5.979344e-05,0.00708565,0.99285454
+1940:888,1940,"Super friendly and knowledgable staff, fabulous bistro fare and a wonderful jazz brunch with great live jazz (the chilaquiles were awesome!",live jazz,positive,positive,0.00024958226,0.015040839,0.98470956
+1632:890,1632,"Still, any quibbles about the bill were off-set by the pour-your-own measures of liquers which were courtesey of the house...",measures of liquers,positive,positive,0.41437003,0.12699728,0.45863268
+179:902,179,"Service was prompt, friendly and great.",Service,positive,positive,5.010653e-05,0.00028908852,0.99966085
+1555:920,1555,"Behind this counter, two men are squeezed in.",counter,negative,neutral,0.054390848,0.91322947,0.03237971
+1471:931,1471,"A large is $20, and toppings are about $3 each.",toppings,neutral,neutral,0.011893772,0.7190351,0.2690711
+813:941,813,"All the appetizers and salads were fabulous, the steak was mouth watering and the pasta was delicious!!!",appetizers,positive,positive,8.942317e-05,0.0028061834,0.99710447
+813:942,813,"All the appetizers and salads were fabulous, the steak was mouth watering and the pasta was delicious!!!",salads,positive,positive,1.8229417e-05,0.0002719852,0.9997098
+813:943,813,"All the appetizers and salads were fabulous, the steak was mouth watering and the pasta was delicious!!!",steak,positive,positive,0.0023322415,0.0007286556,0.9969392
+813:944,813,"All the appetizers and salads were fabulous, the steak was mouth watering and the pasta was delicious!!!",pasta,positive,positive,2.4807208e-05,2.34234e-05,0.99995184
+2862:945,2862,"Besides having the table we had been promised given to other restaurant patrons twice before we were actually seated, we were served dishes we hadn't ordered three times, received one of our orders 20 minutes after the rest of the table had been served (and that order was undercooked), and charged $45 more than we should have been on our bill.",table,negative,negative,0.7396567,0.22171597,0.03862731
+2862:946,2862,"Besides having the table we had been promised given to other restaurant patrons twice before we were actually seated, we were served dishes we hadn't ordered three times, received one of our orders 20 minutes after the rest of the table had been served (and that order was undercooked), and charged $45 more than we should have been on our bill.",served,negative,negative,0.8078879,0.16754754,0.02456455
+2862:947,2862,"Besides having the table we had been promised given to other restaurant patrons twice before we were actually seated, we were served dishes we hadn't ordered three times, received one of our orders 20 minutes after the rest of the table had been served (and that order was undercooked), and charged $45 more than we should have been on our bill.",dishes,negative,negative,0.6092058,0.35854465,0.032249574
+2862:948,2862,"Besides having the table we had been promised given to other restaurant patrons twice before we were actually seated, we were served dishes we hadn't ordered three times, received one of our orders 20 minutes after the rest of the table had been served (and that order was undercooked), and charged $45 more than we should have been on our bill.",table,negative,negative,0.7396567,0.22171597,0.03862731
+2862:949,2862,"Besides having the table we had been promised given to other restaurant patrons twice before we were actually seated, we were served dishes we hadn't ordered three times, received one of our orders 20 minutes after the rest of the table had been served (and that order was undercooked), and charged $45 more than we should have been on our bill.",served,negative,negative,0.8078879,0.16754754,0.02456455
+2862:950,2862,"Besides having the table we had been promised given to other restaurant patrons twice before we were actually seated, we were served dishes we hadn't ordered three times, received one of our orders 20 minutes after the rest of the table had been served (and that order was undercooked), and charged $45 more than we should have been on our bill.",bill,negative,negative,0.55318356,0.4055622,0.041254215
+3343:952,3343,The food now is inconsistent.,food,negative,neutral,0.047243174,0.9367147,0.01604208
+2355:956,2355,The octopus eaters were floored by the Octopus salad.,Octopus salad,positive,negative,0.5045828,0.046478383,0.4489388
+175:961,175,"The decor is vibrant and eye-pleasing with several semi-private boths on the right side of the dining hall, which are great for a date.",decor,positive,positive,0.0076408903,0.031507503,0.96085155
+175:962,175,"The decor is vibrant and eye-pleasing with several semi-private boths on the right side of the dining hall, which are great for a date.",dining hall,positive,neutral,0.006282999,0.6652195,0.32849756
+175:963,175,"The decor is vibrant and eye-pleasing with several semi-private boths on the right side of the dining hall, which are great for a date.",semi-private boths,positive,positive,0.0027581437,0.0037342794,0.9935076
+3188:966,3188,Went there for an office lunch.,office lunch,neutral,neutral,0.0006116763,0.99928015,0.000108170934
+1948:971,1948,"We've been following chef Lyle's food around New York for 15 years and while remaining classic, his innovations with bistro fare have made us return and return.",bistro fare,positive,positive,0.00045634527,0.24601029,0.75353336
+1948:972,1948,"We've been following chef Lyle's food around New York for 15 years and while remaining classic, his innovations with bistro fare have made us return and return.",chef,positive,positive,0.03796577,0.28130174,0.6807325
+1948:973,1948,"We've been following chef Lyle's food around New York for 15 years and while remaining classic, his innovations with bistro fare have made us return and return.",food,positive,positive,0.02371826,0.45182455,0.52445716
+3440:977,3440,"Even though its good seafood, the prices are too high.",seafood,positive,positive,0.08035144,0.0010404484,0.9186081
+3440:978,3440,"Even though its good seafood, the prices are too high.",prices,negative,negative,0.77028525,0.026768686,0.20294611
+870:979,870,"In addition, the food is very good and the prices are reasonable.",food,positive,positive,0.00043551944,0.00580674,0.99375784
+870:980,870,"In addition, the food is very good and the prices are reasonable.",prices,positive,positive,0.001941312,0.031578578,0.96648
+3418:984,3418,"Meat dishes now adorn the selections, although there's still a large number of vegetarian-friendly choices.",Meat dishes,neutral,positive,0.048495032,0.38737345,0.5641315
+3418:985,3418,"Meat dishes now adorn the selections, although there's still a large number of vegetarian-friendly choices.",vegetarian-friendly choices,positive,neutral,0.00077830744,0.7429408,0.25628093
+2940:987,2940,they bring service up a notch by offerng complementary amuse bouche to all tables and gave us a small dessert for our celebration.,amuse bouche,positive,positive,0.01971606,0.09841577,0.8818682
+2940:988,2940,they bring service up a notch by offerng complementary amuse bouche to all tables and gave us a small dessert for our celebration.,dessert,positive,positive,0.01376539,0.244447,0.7417877
+2940:989,2940,they bring service up a notch by offerng complementary amuse bouche to all tables and gave us a small dessert for our celebration.,tables,positive,positive,0.017866775,0.34422377,0.6379094
+2940:990,2940,they bring service up a notch by offerng complementary amuse bouche to all tables and gave us a small dessert for our celebration.,service,positive,positive,0.020145442,0.22070377,0.7591508
+3012:996,3012,"if you're looking for perfect traditional sushi, go here - if you're looking for interesting combinations, try sushi of gari's (east side).",sushi,positive,positive,0.009897742,0.21578579,0.77431643
+3012:997,3012,"if you're looking for perfect traditional sushi, go here - if you're looking for interesting combinations, try sushi of gari's (east side).",sushi,positive,positive,0.009897742,0.21578579,0.77431643
+605:999,605,Wow over 100 beers to choose from.,beers,positive,positive,0.025306737,0.34017915,0.63451415
+2017:1000,2017,Be careful of portions - they're HUGE.,portions,positive,positive,0.271329,0.080204815,0.64846617
+2974:1001,2974,"The Steak Tartare is a great bet, they fix it for you at the table.",Steak Tartare,positive,positive,0.013204784,0.06048681,0.9263084
+792:1021,792,Has the chef and owner changed???,chef,neutral,neutral,0.00551816,0.99094605,0.0035358414
+792:1022,792,Has the chef and owner changed???,owner,neutral,neutral,0.005078586,0.98887616,0.0060452325
+599:1044,599,"Best Italian food I ever had (and being Italian, that means alot).",Italian food,positive,neutral,0.009120953,0.7542864,0.23659256
+1750:1046,1750,Located at the end of a magnificent block.,Located,positive,positive,0.02576691,0.33034593,0.64388716
+847:1047,847,"Looking around, I saw a room full of New Yorkers enjoying a real meal in a real restaurant, not a clubhouse of the fabulous trying to be seen.",meal,positive,positive,0.015003393,0.40072596,0.5842706
+847:1048,847,"Looking around, I saw a room full of New Yorkers enjoying a real meal in a real restaurant, not a clubhouse of the fabulous trying to be seen.",room,neutral,positive,0.26475015,0.108014986,0.6272348
+847:1049,847,"Looking around, I saw a room full of New Yorkers enjoying a real meal in a real restaurant, not a clubhouse of the fabulous trying to be seen.",clubhouse,negative,positive,0.08821506,0.021623537,0.89016134
+3241:1069,3241,But the main hit was the whole grilled fish.,whole grilled fish,positive,positive,0.40681696,0.055714857,0.5374682
+1866:1070,1866,"I had the tuna tartare with sake, mushroom ravioli with pinot noir, and the chocolate sampler with a dessert wine for $49.",tuna tartare,positive,neutral,0.25733665,0.5820112,0.16065213
+1866:1071,1866,"I had the tuna tartare with sake, mushroom ravioli with pinot noir, and the chocolate sampler with a dessert wine for $49.",sake,positive,neutral,0.061671402,0.7356002,0.20272838
+1866:1072,1866,"I had the tuna tartare with sake, mushroom ravioli with pinot noir, and the chocolate sampler with a dessert wine for $49.",mushroom ravioli,positive,positive,0.012934024,0.09508112,0.8919848
+1866:1073,1866,"I had the tuna tartare with sake, mushroom ravioli with pinot noir, and the chocolate sampler with a dessert wine for $49.",pinot noir,positive,neutral,0.0006690844,0.8879619,0.11136907
+1866:1074,1866,"I had the tuna tartare with sake, mushroom ravioli with pinot noir, and the chocolate sampler with a dessert wine for $49.",chocolate sampler,positive,positive,0.028446117,0.18645093,0.7851029
+1866:1075,1866,"I had the tuna tartare with sake, mushroom ravioli with pinot noir, and the chocolate sampler with a dessert wine for $49.",dessert wine,positive,neutral,0.0028127793,0.9479806,0.049206704
+1429:1090,1429,Sauce was watery and the food didn't have much flavor.,Sauce,negative,negative,0.99872273,0.0010395383,0.0002377033
+1429:1091,1429,Sauce was watery and the food didn't have much flavor.,food,negative,negative,0.9924154,0.0069360863,0.00064838945
+1429:1092,1429,Sauce was watery and the food didn't have much flavor.,flavor,negative,negative,0.9844956,0.014409382,0.0010950476
+1855:1093,1855,My husband and I enjoy Sangria.,Sangria,positive,positive,2.737366e-05,0.00028846896,0.9996841
+1066:1114,1066,Other apetizers and food,apetizers,neutral,positive,0.0018353314,0.01467829,0.9834864
+1066:1115,1066,Other apetizers and food,food,neutral,positive,0.00085605675,0.04319945,0.9559445
+3335:1122,3335,"the food was undercooked-the sauce watery, and the vegetables raw.",food,negative,negative,0.9995522,0.00040935972,3.845474e-05
+3335:1123,3335,"the food was undercooked-the sauce watery, and the vegetables raw.",vegetables,negative,negative,0.99985075,0.000109536195,3.9688675e-05
+3335:1124,3335,"the food was undercooked-the sauce watery, and the vegetables raw.",sauce,negative,negative,0.9997092,0.00021789974,7.287849e-05
+301:1146,301,"There was a long wait for a table outside, but it was a little too hot in the sun anyway so our insde table was very nice.",table,neutral,positive,0.3759876,0.19188543,0.43212703
+301:1147,301,"There was a long wait for a table outside, but it was a little too hot in the sun anyway so our insde table was very nice.",insde table,positive,positive,0.06344574,0.13255231,0.804002
+301:1148,301,"There was a long wait for a table outside, but it was a little too hot in the sun anyway so our insde table was very nice.",wait,negative,negative,0.50586617,0.0903941,0.4037397
+53:1153,53,"So much more than the usual bar food, go there to enjoy the menu while sampling one of their hand-crafted beers.",bar food,positive,neutral,0.0195567,0.5608123,0.419631
+53:1154,53,"So much more than the usual bar food, go there to enjoy the menu while sampling one of their hand-crafted beers.",menu,positive,neutral,0.06371329,0.6824772,0.25380954
+53:1155,53,"So much more than the usual bar food, go there to enjoy the menu while sampling one of their hand-crafted beers.",hand-crafted beers,positive,positive,0.006212303,0.25843784,0.7353499
+1211:1159,1211,"While they keep the capex to a minimum, they do put some cash into the bagels, because they among the best in the city.",capex,positive,positive,0.14941339,0.3484369,0.5021497
+1211:1160,1211,"While they keep the capex to a minimum, they do put some cash into the bagels, because they among the best in the city.",bagels,neutral,neutral,0.004608626,0.75801736,0.23737405
+531:1171,531,Have frequented 'ino for several years and the food remains excellent.,food,positive,positive,0.0002230725,0.0008916783,0.99888533
+2606:1177,2606,My friend got the mushroom pizza which tasted better.,mushroom pizza,positive,positive,0.016128087,0.11570539,0.86816645
+1797:1183,1797,"It's a shame that a nice, convenient place like the Pink Pony can be so ruined by lousy service.",place,positive,positive,0.03354021,0.0007731901,0.9656866
+1797:1184,1797,"It's a shame that a nice, convenient place like the Pink Pony can be so ruined by lousy service.",service,negative,positive,0.36364284,0.00025423616,0.6361029
+1727:1203,1727,"The in-house lady DJ on Saturday nights has outrageously good taste in music, and moreover, takes requests.",music,positive,positive,0.045336828,0.27736473,0.6772985
+1727:1204,1727,"The in-house lady DJ on Saturday nights has outrageously good taste in music, and moreover, takes requests.",in-house lady DJ,positive,positive,0.05048762,0.009474138,0.94003826
+1386:1213,1386,"The food's dazzling flavors overwhelm the palate, truly embracing the beauty of authentic Thai cuisine.",food,positive,positive,0.0004325323,0.002440732,0.99712676
+1386:1214,1386,"The food's dazzling flavors overwhelm the palate, truly embracing the beauty of authentic Thai cuisine.",Thai cuisine,positive,positive,0.00028523468,0.0010767622,0.998638
+1386:1215,1386,"The food's dazzling flavors overwhelm the palate, truly embracing the beauty of authentic Thai cuisine.",flavors,positive,positive,0.0002652798,0.00044819093,0.9992866
+438:1217,438,They pray to their Food Gods to make them into a good pizza like VT's.,pizza,negative,positive,0.0155133875,0.27956665,0.70491993
+3600:1224,3600,It looked like shredded cheese partly done - still in strips.,shredded cheese,negative,negative,0.97511405,0.012081298,0.012804651
+1118:1232,1118,"If you go to Roth's try to be served by Mike, he is GREAT!!",served,positive,positive,0.0026142802,0.01906528,0.9783205
+3599:1239,3599,The pizza was delivered cold and the cheese wasn't even fully melted!,pizza,negative,negative,0.8146938,0.11713918,0.068166986
+3599:1240,3599,The pizza was delivered cold and the cheese wasn't even fully melted!,cheese,negative,negative,0.8398822,0.094574235,0.06554364
+1987:1248,1987,"On the other hand, if you are not fooled easily, you will find hundreds of restaurants that will give you service and ambiance that is on par with Alain Ducasse, and food that will outshine in presentaion, taste, choice, quality and quantity.",service,neutral,positive,0.097352415,0.08236694,0.82028073
+1987:1249,1987,"On the other hand, if you are not fooled easily, you will find hundreds of restaurants that will give you service and ambiance that is on par with Alain Ducasse, and food that will outshine in presentaion, taste, choice, quality and quantity.",ambiance,neutral,positive,0.0015586317,0.008974833,0.9894665
+1987:1250,1987,"On the other hand, if you are not fooled easily, you will find hundreds of restaurants that will give you service and ambiance that is on par with Alain Ducasse, and food that will outshine in presentaion, taste, choice, quality and quantity.",food,negative,positive,0.021534974,0.028330958,0.95013416
+1987:1251,1987,"On the other hand, if you are not fooled easily, you will find hundreds of restaurants that will give you service and ambiance that is on par with Alain Ducasse, and food that will outshine in presentaion, taste, choice, quality and quantity.",presentaion,negative,positive,0.005327541,0.07686188,0.9178106
+1987:1252,1987,"On the other hand, if you are not fooled easily, you will find hundreds of restaurants that will give you service and ambiance that is on par with Alain Ducasse, and food that will outshine in presentaion, taste, choice, quality and quantity.",taste,negative,positive,0.01736328,0.016640268,0.96599644
+1987:1253,1987,"On the other hand, if you are not fooled easily, you will find hundreds of restaurants that will give you service and ambiance that is on par with Alain Ducasse, and food that will outshine in presentaion, taste, choice, quality and quantity.",choice,negative,positive,0.02847965,0.027635485,0.9438849
+1987:1254,1987,"On the other hand, if you are not fooled easily, you will find hundreds of restaurants that will give you service and ambiance that is on par with Alain Ducasse, and food that will outshine in presentaion, taste, choice, quality and quantity.",quality,negative,positive,0.016304912,0.022265108,0.96142995
+1987:1255,1987,"On the other hand, if you are not fooled easily, you will find hundreds of restaurants that will give you service and ambiance that is on par with Alain Ducasse, and food that will outshine in presentaion, taste, choice, quality and quantity.",quantity,negative,positive,0.034975797,0.019549768,0.9454744
+3626:1257,3626,"If I could rate the people this place would be off the charts - unfortunately - the pizza, sorry - not the best in NYC.",people,positive,negative,0.7848266,0.17685711,0.03831626
+3626:1258,3626,"If I could rate the people this place would be off the charts - unfortunately - the pizza, sorry - not the best in NYC.",pizza,negative,negative,0.67737764,0.20940518,0.1132172
+1094:1259,1094,The food is amazing!!!!,food,positive,positive,1.9208795e-05,0.00010150604,0.99987924
+2881:1260,2881,"Having not been home in the last 2 years may skew this reviewer a bit, but the food was tasty and spicy sans the oil that comes floating along at similar venues.",food,positive,positive,0.06695383,0.19589564,0.73715055
+2881:1261,2881,"Having not been home in the last 2 years may skew this reviewer a bit, but the food was tasty and spicy sans the oil that comes floating along at similar venues.",oil,neutral,neutral,0.3231843,0.45848835,0.21832736
+1493:1266,1493,"The owner is very friendly and a great guy, go try his pizza, you'll like it!",owner,positive,positive,0.006727488,0.048592955,0.94467956
+1493:1267,1493,"The owner is very friendly and a great guy, go try his pizza, you'll like it!",pizza,positive,positive,0.004038486,0.077189185,0.9187723
+1991:1291,1991,"The production is a symphony, alot of fun to experience.The food sublime for the most part.",food,positive,positive,0.0032254895,0.0044624535,0.992312
+359:1311,359,"However, looking at the table next to ours, we both sort of wished we had ordered pizza, which looked PERRRRRRRRRFECT.",pizza,positive,neutral,0.070781045,0.9164493,0.012769662
+2795:1312,2795,Priced at upper intermediate range.,Priced,negative,positive,0.38745704,0.1971656,0.4153774
+2938:1318,2938,"they didn't disappoint, service from the second i arrived at the door was extremely pleasant and attentive with almost one server per table.",service,positive,positive,0.006912568,0.0019198904,0.9911675
+2938:1319,2938,"they didn't disappoint, service from the second i arrived at the door was extremely pleasant and attentive with almost one server per table.",server,positive,positive,0.042647213,0.012885524,0.94446725
+2938:1320,2938,"they didn't disappoint, service from the second i arrived at the door was extremely pleasant and attentive with almost one server per table.",table,neutral,positive,0.07256282,0.11365592,0.81378126
+1677:1328,1677,"The only positive was the wait staff, which was prompt, knowledgable, and likeable.",wait staff,positive,positive,0.41334718,0.0017450306,0.5849077
+2251:1331,2251,I was very impressed by this low-key upper eastsider and their authentically thai cuisine!!!,thai cuisine,positive,positive,0.00078017166,9.332298e-05,0.9991265
+991:1332,991,"For the location, the prices are very reasonable.",prices,positive,positive,0.013462405,0.12439542,0.8621421
+991:1333,991,"For the location, the prices are very reasonable.",location,neutral,positive,0.15502249,0.2446721,0.6003055
+528:1353,528,Warm and friendly in the winter and terrific outdoor seating in the warmer months.,outdoor seating,positive,positive,0.0001479858,3.1795705e-06,0.9998487
+40:1360,40,"My turkey burger was not cooked at all, my friends salmon was completely raw.",turkey burger,negative,negative,0.9062179,0.0923733,0.0014088533
+40:1361,40,"My turkey burger was not cooked at all, my friends salmon was completely raw.",salmon,negative,negative,0.8209983,0.17533377,0.0036679045
+3011:1374,3011,"uni from maine vs california, sea vs freshwater eel) to get a good taste comparison.",eel,neutral,positive,0.13268422,0.20928009,0.6580357
+3454:1375,3454,"We started with lox and mussels (the best ive ever had, ever) and had the cod and trout for dinner.",lox,positive,positive,0.0039440147,0.08487777,0.9111782
+3454:1376,3454,"We started with lox and mussels (the best ive ever had, ever) and had the cod and trout for dinner.",mussels,positive,positive,0.00015363254,0.010173529,0.9896729
+3454:1377,3454,"We started with lox and mussels (the best ive ever had, ever) and had the cod and trout for dinner.",cod,neutral,positive,0.006018688,0.047555666,0.9464257
+3454:1378,3454,"We started with lox and mussels (the best ive ever had, ever) and had the cod and trout for dinner.",trout,neutral,positive,0.0014065576,0.008636966,0.9899565
+3454:1379,3454,"We started with lox and mussels (the best ive ever had, ever) and had the cod and trout for dinner.",dinner,neutral,neutral,0.002053614,0.6450996,0.35284677
+3248:1380,3248,"The crispy chicken wasn't for us, though.",crispy chicken,negative,positive,0.10096059,0.10882862,0.79021084
+3291:1381,3291,Food is great.,Food,positive,positive,1.7667437e-05,0.16183244,0.8381499
+772:1388,772,In reality (to maximize potential diners) they were still taking phone reservations and reallocating tables of those waiting in the lobby.,diners,neutral,negative,0.52827626,0.26611283,0.20561089
+772:1389,772,In reality (to maximize potential diners) they were still taking phone reservations and reallocating tables of those waiting in the lobby.,reservations,negative,negative,0.635121,0.35342374,0.011455248
+772:1390,772,In reality (to maximize potential diners) they were still taking phone reservations and reallocating tables of those waiting in the lobby.,tables,negative,negative,0.7715033,0.1290018,0.0994949
+772:1391,772,In reality (to maximize potential diners) they were still taking phone reservations and reallocating tables of those waiting in the lobby.,lobby,neutral,negative,0.50254583,0.42809647,0.06935771
+772:1392,772,In reality (to maximize potential diners) they were still taking phone reservations and reallocating tables of those waiting in the lobby.,waiting,negative,negative,0.5821091,0.22279361,0.1950973
+3667:1396,3667,"But when you are seated the waitresses are great, they explain everything on the menu, and the price of the food is really cheap for the service you get.",waitresses,positive,positive,0.04284838,0.3749771,0.58217454
+3667:1397,3667,"But when you are seated the waitresses are great, they explain everything on the menu, and the price of the food is really cheap for the service you get.",price,positive,neutral,0.3255867,0.34531543,0.32909784
+3667:1398,3667,"But when you are seated the waitresses are great, they explain everything on the menu, and the price of the food is really cheap for the service you get.",service,positive,positive,0.2979349,0.33229092,0.36977422
+3667:1399,3667,"But when you are seated the waitresses are great, they explain everything on the menu, and the price of the food is really cheap for the service you get.",menu,neutral,neutral,0.04273792,0.8872528,0.07000922
+3667:1400,3667,"But when you are seated the waitresses are great, they explain everything on the menu, and the price of the food is really cheap for the service you get.",food,neutral,neutral,0.16658366,0.6397184,0.19369791
+3460:1402,3460,"The freshest, best variety, and the fastest delivery.",variety,positive,positive,4.3253727e-05,0.0002805774,0.9996762
+3460:1403,3460,"The freshest, best variety, and the fastest delivery.",delivery,positive,positive,0.0009526461,0.0010603087,0.99798715
+276:1413,276,We were well attended to by the enthusiastic staff especially the manager Tony Gaskin who made excellent suggestions for our menu selections.,staff,positive,positive,0.0025026947,0.02790568,0.9695916
+276:1414,276,We were well attended to by the enthusiastic staff especially the manager Tony Gaskin who made excellent suggestions for our menu selections.,manager,positive,positive,0.017153475,0.06814869,0.9146978
+276:1415,276,We were well attended to by the enthusiastic staff especially the manager Tony Gaskin who made excellent suggestions for our menu selections.,menu selections,positive,positive,0.000509923,0.14524423,0.85424584
+2852:1428,2852,The ceiling is amazing!,ceiling,positive,positive,5.7495155e-05,0.00033599776,0.99960655
+1580:1440,1580,The staff was the friendliest that have seen in New York.,staff,positive,positive,0.057816736,0.117597945,0.82458526
+2924:1441,2924,"With the exception of our lemon salad that had so much pepper on it that our eyes started watering, the food here was decent, not great.",food,neutral,negative,0.64476407,0.34423095,0.011004975
+2924:1442,2924,"With the exception of our lemon salad that had so much pepper on it that our eyes started watering, the food here was decent, not great.",lemon salad,negative,negative,0.95324796,0.030092563,0.016659442
+2924:1443,2924,"With the exception of our lemon salad that had so much pepper on it that our eyes started watering, the food here was decent, not great.",pepper,negative,negative,0.90740716,0.086921774,0.0056711077
+2414:1444,2414,"The Pad thai, lad nar and various other dishes all look good on paper but, I've had better thai food in less asthetically pleasing places.",places,negative,negative,0.6364869,0.036335826,0.3271773
+2414:1445,2414,"The Pad thai, lad nar and various other dishes all look good on paper but, I've had better thai food in less asthetically pleasing places.",thai food,neutral,negative,0.78064877,0.036158144,0.18319316
+699:1465,699,The wine list is interesting and has many good values.,wine list,positive,positive,2.3707204e-05,4.0115992e-05,0.9999361
+1370:1466,1370,I'm still mad that i had to pay for lousy food.,food,negative,negative,0.8668868,0.11680443,0.016308706
+3334:1468,3334,Definite go if you're used to good Indian restaurant food from abroad.,Indian restaurant food,positive,positive,9.289794e-05,0.008231343,0.99167573
+2582:1477,2582,"NO more reservations, expensive tips and annoying stuff.",reservations,positive,negative,0.9832948,0.016453667,0.00025157127
+2582:1478,2582,"NO more reservations, expensive tips and annoying stuff.",tips,positive,negative,0.9891685,0.007482096,0.0033493564
+2582:1479,2582,"NO more reservations, expensive tips and annoying stuff.",stuff,positive,negative,0.9860525,0.0070091938,0.006938341
+2071:1480,2071,Try the sea bass.,sea bass,positive,positive,0.011884119,0.00095136254,0.9871646
+1054:1489,1054,"But they don't have a toaster, which is strange.",toaster,negative,negative,0.91482097,0.081135236,0.004043755
+2365:1500,2365,Someone else recommended the dessert - we also left that.,dessert,negative,neutral,0.022933636,0.92361146,0.053454913
+1564:1505,1564,People are always friendly.,People,positive,positive,0.028748494,0.37030232,0.6009492
+566:1516,566,"Got club soda, filled with ice, no lime.","club soda, filled with ice, no lime",neutral,neutral,0.19792578,0.56201303,0.24006115
+1879:1530,1879,"It saves walking in and waiting for a table in the often noisy, crowded bar at dinnertime.",bar,negative,neutral,0.04741404,0.905562,0.047023952
+1879:1531,1879,"It saves walking in and waiting for a table in the often noisy, crowded bar at dinnertime.",waiting,negative,negative,0.5521141,0.1605142,0.28737167
+1879:1532,1879,"It saves walking in and waiting for a table in the often noisy, crowded bar at dinnertime.",table,negative,neutral,0.3545143,0.4372973,0.2081884
+1415:1537,1415,"Disappointing food, lousy service.",food,negative,negative,0.9999064,6.1817927e-06,8.741389e-05
+1415:1538,1415,"Disappointing food, lousy service.",service,negative,negative,0.9985701,2.79641e-05,0.0014018749
+1945:1539,1945,"If you want a casual neighborhood bistro that has great food and excellent service, this is the place.",food,positive,positive,3.988673e-05,0.00032985484,0.9996302
+1945:1540,1945,"If you want a casual neighborhood bistro that has great food and excellent service, this is the place.",service,positive,positive,0.00022839213,0.0016004175,0.9981712
+2916:1543,2916,"Over price, and small portions .",price,negative,positive,0.21221334,0.2884514,0.4993353
+2916:1544,2916,"Over price, and small portions .",portions,negative,positive,0.42983708,0.0916155,0.47854736
+1575:1575,1575,Our family never expected such incredible entertainment in a restaurant.,entertainment,positive,positive,0.01667823,0.06329561,0.9200261
+2908:1576,2908,i would recommend reservations on weekends though.,reservations,neutral,neutral,0.025635917,0.90342146,0.07094263
+1418:1587,1418,I noted it was crossed off on the bill.,bill,neutral,neutral,0.25065044,0.65477705,0.09457253
+2413:1593,2413,"An excellent alternative to fast food joints and ordering in but, the food was slightly disappointing.",fast food,negative,negative,0.95512587,0.03441313,0.010460993
+2413:1594,2413,"An excellent alternative to fast food joints and ordering in but, the food was slightly disappointing.",food,negative,negative,0.9289998,0.062015973,0.0089842575
+845:1608,845,The dining room is quietly elegant with no music to shout over -- how refreshing!,dining room,positive,positive,0.0039006902,0.017605564,0.9784937
+845:1609,845,The dining room is quietly elegant with no music to shout over -- how refreshing!,music,positive,positive,0.056392603,0.2465485,0.69705886
+3361:1617,3361,The rest of the menu is limited by everything is good eats.,eats,positive,neutral,0.0280005,0.91549796,0.056501575
+789:1618,789,The menu is nothing like the one on the website.,menu,negative,negative,0.9691815,0.026035273,0.0047832476
+3682:1626,3682,"The wait staff is very freindly, they make it feel like you're eating in a freindly little european town.",wait staff,positive,negative,0.5233849,0.01541294,0.46120206
+205:1627,205,"The waitstaff are all very busy, it's not outstanding service, but I've never been dealt with rudely.",waitstaff,negative,positive,0.32140276,0.025134848,0.6534624
+3382:1634,3382,"The flavors are great, and the menu is extensive.",flavors,positive,positive,0.00019397296,0.010763729,0.98904234
+3382:1635,3382,"The flavors are great, and the menu is extensive.",menu,positive,positive,6.639523e-05,0.007972019,0.99196166
+2850:1636,2850,"The food was amazing, the service was so attentive and personable, and how about that ambience!",food,positive,positive,0.00019615315,0.00016086857,0.99964297
+2850:1637,2850,"The food was amazing, the service was so attentive and personable, and how about that ambience!",service,positive,positive,0.00072162115,0.000100646605,0.99917775
+2850:1638,2850,"The food was amazing, the service was so attentive and personable, and how about that ambience!",ambience,positive,positive,0.00058523257,0.0005120132,0.9989027
+1029:1642,1029,I found the variety of the sashimi plate to be satisfying - fresh and yummy.,sashimi plate,positive,positive,0.0071039856,0.0011629389,0.9917331
+163:1644,163,"We couldn't carry our conversation as we were routinely interrupted by waitress and servants asking us to order and hinting that we're taking too much time -- amazing, we just sat down.",waitress,negative,neutral,0.16400741,0.83373904,0.0022535312
+163:1645,163,"We couldn't carry our conversation as we were routinely interrupted by waitress and servants asking us to order and hinting that we're taking too much time -- amazing, we just sat down.",servants,negative,neutral,0.26978678,0.7252158,0.0049974285
+757:1648,757,"It's a place for people who pay a lot for mediocre food, noise and a chance to be with their fellow bridge and tunnel folks.",food,neutral,negative,0.98547584,0.011347226,0.0031769786
+757:1649,757,"It's a place for people who pay a lot for mediocre food, noise and a chance to be with their fellow bridge and tunnel folks.",noise,negative,negative,0.9630153,0.021733822,0.0152509175
+2223:1653,2223,The food was spicy and delicious.,food,positive,positive,0.0002963619,0.00058859476,0.99911505
+1140:1657,1140,"Anyways, if you're in the neighborhood to eat good food, I wouldn't waste my time trying to find something, rather go across the street to Tamari.",food,positive,neutral,0.016710635,0.9225396,0.060749833
+2818:1660,2818,This was my frist time at Cafe St. Bart's and I must say how delicous the food and the service was.,food,positive,positive,0.030235408,0.025223844,0.94454074
+2818:1661,2818,This was my frist time at Cafe St. Bart's and I must say how delicous the food and the service was.,service,positive,positive,0.07014745,0.045354392,0.88449806
+3658:1687,3658,"We ate out in the back patio, which is worth it as it's cool and the music is hear well there.",back patio,positive,positive,0.011065125,0.013401142,0.9755338
+3658:1688,3658,"We ate out in the back patio, which is worth it as it's cool and the music is hear well there.",music,positive,positive,0.02317953,0.04293358,0.93388695
+2884:1701,2884,"While I quite liked the food and the ambience, I'm not quite sure if it they really deserve it the Michelin rating they have displayed so prooudly in the window.",food,positive,positive,0.021137042,0.03390701,0.9449559
+2884:1702,2884,"While I quite liked the food and the ambience, I'm not quite sure if it they really deserve it the Michelin rating they have displayed so prooudly in the window.",ambience,positive,positive,0.0014873893,0.010818409,0.98769414
+2477:1712,2477,And I say snacking because it really is not set up to be a proper dinner.,dinner,negative,neutral,0.006833924,0.99112695,0.002039134
+2477:1713,2477,And I say snacking because it really is not set up to be a proper dinner.,snacking,neutral,neutral,0.031257015,0.96813935,0.000603581
+1787:1728,1787,The Yellowtail was particularly good as well.,Yellowtail,positive,positive,0.00034010562,1.3839184e-05,0.99964607
+2412:1736,2412,"Spice is sleek, modern and cool with a menu that will not hurt your wallet.",menu,positive,positive,0.00018087956,0.005833421,0.9939857
+714:1739,714,Very affordable and excellent ambient!,ambient,positive,positive,0.004040904,3.0322246e-05,0.9959288
+2616:1741,2616,I have never had cheescake like this.,cheescake,positive,positive,0.0012988203,0.43211588,0.5665853
+837:1744,837,Why do people rave about the ambience.,ambience,negative,negative,0.609661,0.19988362,0.19045548
+218:1767,218,"From the spectacular caviar to the hospitable waitstaff, I felt like royalty and enjoyed every second of it.",caviar,positive,positive,0.0002453769,6.516328e-05,0.99968946
+218:1768,218,"From the spectacular caviar to the hospitable waitstaff, I felt like royalty and enjoyed every second of it.",waitstaff,positive,positive,0.00091855874,5.497305e-05,0.9990264
+811:1770,811,The place was real empty but that was because this was the first Sunday they ever opened.,place,negative,negative,0.805464,0.12789583,0.06664014
+503:1775,503,"Service was excellent, and the AC worked very well too (thank God, it was hot!).",Service,positive,positive,0.0012960671,0.0014701317,0.9972338
+503:1776,503,"Service was excellent, and the AC worked very well too (thank God, it was hot!).",AC,positive,positive,0.02527089,0.0002456165,0.97448355
+1213:1802,1213,I am relatively new to the area and tried Pick a bgel on 2nd and was disappointed with the service and I thought the food was overated and on the pricey side.,service,negative,negative,0.9706796,0.02628548,0.0030349272
+1213:1803,1213,I am relatively new to the area and tried Pick a bgel on 2nd and was disappointed with the service and I thought the food was overated and on the pricey side.,food,negative,negative,0.9769458,0.021073427,0.0019807608
+94:1818,94,"Excellent atmosphere, delicious dishes good and friendly service.",atmosphere,positive,positive,1.7386106e-05,9.066203e-05,0.9998919
+94:1819,94,"Excellent atmosphere, delicious dishes good and friendly service.",dishes,positive,positive,7.5690373e-06,0.0002143565,0.999778
+94:1820,94,"Excellent atmosphere, delicious dishes good and friendly service.",service,positive,positive,3.1634037e-05,0.00018415836,0.9997843
+1015:1821,1015,A cool place to hang with your friends for a couple of healthy drinks and desserts.,place,positive,positive,0.05949624,0.21946278,0.72104096
+1015:1822,1015,A cool place to hang with your friends for a couple of healthy drinks and desserts.,drinks,positive,positive,0.0024416044,0.31430814,0.68325025
+1015:1823,1015,A cool place to hang with your friends for a couple of healthy drinks and desserts.,desserts,positive,positive,7.417667e-05,0.1924371,0.80748874
+58:1834,58,"A cool bar with great food, and tons of excellent beer.",bar,positive,positive,4.9155595e-05,0.0005600877,0.9993907
+58:1835,58,"A cool bar with great food, and tons of excellent beer.",food,positive,positive,2.9186795e-05,0.00083813665,0.9991327
+58:1836,58,"A cool bar with great food, and tons of excellent beer.",beer,positive,positive,2.6418586e-05,0.00046171842,0.99951184
+1470:1848,1470,But the pizza is way to expensive.,pizza,negative,negative,0.8528033,0.12842481,0.01877191
+2457:1849,2457,"And the staff is also young, energeic and hot!!!!",staff,positive,positive,0.0013642905,0.00096234743,0.99767333
+505:1850,505,"Even better, they know how to cook French classics like Steak au Poivre and Onglet without burning it to death or overcooking it.",Steak au Poivre,positive,positive,0.012008596,0.022250075,0.96574134
+505:1851,505,"Even better, they know how to cook French classics like Steak au Poivre and Onglet without burning it to death or overcooking it.",Onglet,positive,positive,0.017125966,0.05726924,0.92560476
+2443:1856,2443,"Great food (spinach and corn dumplings and massamman curry), very friendly and no nonsense service and a clean and funky bathroom.",food,positive,positive,0.004240098,0.037669495,0.9580905
+2443:1857,2443,"Great food (spinach and corn dumplings and massamman curry), very friendly and no nonsense service and a clean and funky bathroom.",spinach and corn dumplings,positive,positive,0.0010579114,0.0045985933,0.9943435
+2443:1858,2443,"Great food (spinach and corn dumplings and massamman curry), very friendly and no nonsense service and a clean and funky bathroom.",service,positive,positive,0.0023288717,0.017305633,0.98036546
+2443:1859,2443,"Great food (spinach and corn dumplings and massamman curry), very friendly and no nonsense service and a clean and funky bathroom.",bathroom,positive,positive,0.0020701252,0.0071596624,0.9907703
+2443:1860,2443,"Great food (spinach and corn dumplings and massamman curry), very friendly and no nonsense service and a clean and funky bathroom.",massamman curry,positive,positive,0.00037701716,0.010076224,0.98954684
+255:1864,255,My chow fun and chow see was really bland and oily.,chow fun and chow see,negative,positive,0.33344728,0.008600013,0.6579527
+315:1870,315,"I didn't take a look at the rest menu, but the oysters were fantastic.",menu,neutral,neutral,0.13456063,0.857543,0.007896365
+315:1871,315,"I didn't take a look at the rest menu, but the oysters were fantastic.",oysters,positive,positive,0.08060963,0.42758906,0.49180126
+1959:1886,1959,We did have to wait at the bar for approx.,bar,neutral,neutral,0.00023347804,0.99974304,2.352315e-05
+343:1895,343,It is obvious that no one in the restaurant has any idea about or experience with Japanese cuisine.,Japanese cuisine,negative,neutral,0.0019691791,0.99475646,0.003274409
+3156:1905,3156,"Don't expect to sit down inside though, there are only a few tables and they are always full.",tables,negative,negative,0.43792355,0.39047673,0.17159967
+1947:1906,1947,"The staff is accomodating, the ambiance is exciting and yet relaxed, and the food is out of this world!",staff,positive,positive,0.07215716,0.12629522,0.80154765
+1947:1907,1947,"The staff is accomodating, the ambiance is exciting and yet relaxed, and the food is out of this world!",ambiance,positive,positive,0.0005897756,0.0027104658,0.99669975
+1947:1908,1947,"The staff is accomodating, the ambiance is exciting and yet relaxed, and the food is out of this world!",food,positive,positive,0.0059752967,0.07763514,0.9163896
+740:1913,740,The manager claimed that he could not compensate us for anything on the bill which just shows the lack of sophistication from the entire group.,manager,negative,negative,0.9433715,0.05235923,0.004269292
+740:1914,740,The manager claimed that he could not compensate us for anything on the bill which just shows the lack of sophistication from the entire group.,bill,neutral,negative,0.9728116,0.024571383,0.002617096
+2797:1915,2797,it's the only place you can get yummy authentic japanese comfort food.,japanese comfort food,positive,positive,0.021586346,0.032677673,0.945736
+158:1919,158,We were fast to order the appetizer platter since we were very hungry.,appetizer platter,neutral,neutral,0.017063672,0.9210115,0.061924826
+52:1921,52,"No dress codes, no attitudes, plenty of comfort companionship, a great place to relax in an always busy Midtown.",dress codes,positive,negative,0.49897227,0.22542305,0.2756046
+52:1922,52,"No dress codes, no attitudes, plenty of comfort companionship, a great place to relax in an always busy Midtown.",attitudes,positive,negative,0.5079019,0.08522251,0.40687564
+52:1923,52,"No dress codes, no attitudes, plenty of comfort companionship, a great place to relax in an always busy Midtown.",place,positive,positive,0.034331392,0.005010411,0.96065813
+2115:1926,2115,"but when we looked at the menu, there weren't a lot of choices, most of them were dumplings in the appetizer section.",menu,negative,negative,0.9396858,0.05941219,0.0009019877
+2115:1927,2115,"but when we looked at the menu, there weren't a lot of choices, most of them were dumplings in the appetizer section.",dumplings,neutral,negative,0.94229853,0.04886823,0.008833223
+2115:1928,2115,"but when we looked at the menu, there weren't a lot of choices, most of them were dumplings in the appetizer section.",appetizer,negative,neutral,0.152918,0.84015983,0.0069221132
+753:1929,753,After my 3rd time the manager remembered me and treated me like an usual customer.,manager,positive,neutral,0.36375815,0.41400665,0.22223523
+1747:1933,1747,Wait staff is blantently unappreciative of your business but its the best pie on the UWS!,Wait staff,negative,positive,0.25390458,0.07079227,0.6753031
+1747:1934,1747,Wait staff is blantently unappreciative of your business but its the best pie on the UWS!,pie,positive,positive,0.013903326,0.025685607,0.9604111
+1329:1964,1329,"We had reservations at 9pm, but was not seated until 10:15pm.",reservations,negative,neutral,0.029395705,0.904673,0.06593133
+3608:1969,3608,"So, a little inconsistency there but either way, both pizzas were really good.",pizzas,positive,positive,0.008150646,0.4762504,0.51559895
+3472:1986,3472,Both times we waited well over a half hour for a table (even though we had reservations).,table,negative,neutral,0.38628182,0.460097,0.15362121
+3472:1987,3472,Both times we waited well over a half hour for a table (even though we had reservations).,reservations,negative,neutral,0.1304223,0.77532554,0.09425217
+2698:1996,2698,We were also seated promptly at the time of our reservation and the service was very quick and professional.,service,positive,positive,0.0063629076,0.0020594273,0.99157774
+2698:1997,2698,We were also seated promptly at the time of our reservation and the service was very quick and professional.,reservation,positive,positive,0.008401018,0.04973612,0.9418628
+124:2001,124,The food there are sastifying.,food,positive,positive,0.022928318,0.010052085,0.9670196
+267:2004,267,The bar is very well stocked with interesting beers and well priced wines.,bar,positive,positive,0.00062746037,0.03557363,0.96379894
+267:2005,267,The bar is very well stocked with interesting beers and well priced wines.,beers,positive,positive,0.00020168147,0.008212748,0.9915856
+267:2006,267,The bar is very well stocked with interesting beers and well priced wines.,wines,positive,positive,0.00027426064,0.014258245,0.98546743
+267:2007,267,The bar is very well stocked with interesting beers and well priced wines.,priced,positive,positive,0.0006389165,0.02120101,0.9781601
+3683:2029,3683,"They forgot a sandwich, didn't include plastic forks, and didn't include pita with the hummus platter.",sandwich,neutral,negative,0.57305545,0.42627284,0.00067170215
+3683:2030,3683,"They forgot a sandwich, didn't include plastic forks, and didn't include pita with the hummus platter.",plastic forks,neutral,neutral,0.19330235,0.8050991,0.0015984888
+3683:2031,3683,"They forgot a sandwich, didn't include plastic forks, and didn't include pita with the hummus platter.",pita,neutral,negative,0.7243708,0.2706337,0.0049954467
+3683:2032,3683,"They forgot a sandwich, didn't include plastic forks, and didn't include pita with the hummus platter.",hummus platter,neutral,neutral,0.14019655,0.84354043,0.016263
+3513:2037,3513,"The service was poor, restaurant poorly lit, staff not very attentive and I would have rather eaten at a Mcdonald's than this joint.",service,negative,negative,0.9919823,0.007600781,0.00041695358
+3513:2038,3513,"The service was poor, restaurant poorly lit, staff not very attentive and I would have rather eaten at a Mcdonald's than this joint.",staff,negative,negative,0.96597755,0.027332375,0.0066900514
+1585:2053,1585,I REALLY ENJOYED THE SHOWS PUT ON BY THE ACTORS.,SHOWS,positive,positive,0.007310259,0.11814904,0.8745407
+1585:2054,1585,I REALLY ENJOYED THE SHOWS PUT ON BY THE ACTORS.,ACTORS,positive,positive,0.011519051,0.27568588,0.7127951
+3443:2056,3443,service was efficient courteous.,service,positive,positive,0.0011393905,0.000779054,0.99808156
+2848:2074,2848,"The menu is Prix Fixe, so be prepared to spend at least $60 per person, but it is Well worth itsuperb food.",menu,negative,neutral,0.05302774,0.8353916,0.111580625
+2848:2075,2848,"The menu is Prix Fixe, so be prepared to spend at least $60 per person, but it is Well worth itsuperb food.",food,positive,neutral,0.04842464,0.83591914,0.11565626
+2848:2076,2848,"The menu is Prix Fixe, so be prepared to spend at least $60 per person, but it is Well worth itsuperb food.",Prix Fixe,neutral,positive,0.120844945,0.36885673,0.5102983
+523:2077,523,The wine list is extensive and impressive.,wine list,positive,positive,7.012093e-05,0.00027874665,0.9996512
+2861:2079,2861,"While the staff at this little bistro is very friendly, I have never experienced more incompetency.",staff,positive,positive,0.08240364,0.012531202,0.9050651
+2697:2080,2697,The quail was fantastic and unique and the pastas were full of flavor.,quail,positive,positive,0.000490632,3.783359e-05,0.9994715
+2697:2081,2697,The quail was fantastic and unique and the pastas were full of flavor.,pastas,positive,positive,9.140319e-06,1.4283152e-05,0.9999765
+2697:2082,2697,The quail was fantastic and unique and the pastas were full of flavor.,flavor,positive,positive,0.00037487134,0.0012186317,0.99840647
+3001:2087,3001,The staff is courteous and friendly.,staff,positive,positive,6.703054e-05,0.00024878304,0.9996842
+208:2098,208,The specials are usually quite good too.,specials,positive,positive,0.00014796443,0.00721305,0.99263906
+1023:2099,1023,They've the best desserts and mixed drinks as well as snack foods.,desserts,positive,positive,6.243175e-05,0.0010966789,0.998841
+1023:2100,1023,They've the best desserts and mixed drinks as well as snack foods.,mixed drinks,positive,positive,2.2632954e-05,0.003908747,0.9960686
+1023:2101,1023,They've the best desserts and mixed drinks as well as snack foods.,snack foods,positive,positive,1.212623e-05,0.0011647778,0.9988231
+1218:2122,1218,"Of course this atmosphere is lacking, but what do you expect from a 24 hour bagel place anyways?",atmosphere,negative,negative,0.37571207,0.3610477,0.26324022
+1218:2123,1218,"Of course this atmosphere is lacking, but what do you expect from a 24 hour bagel place anyways?",bagel,neutral,neutral,0.0013154086,0.9738696,0.024814934
+3629:2136,3629,It's just O.K. pizza.,pizza,neutral,neutral,0.002716769,0.99024487,0.0070383665
+594:2137,594,"The food is decent at best, and the ambience, well, it's a matter of opinion, some may consider it to be a sweet thing, I thought it was just annoying.",food,neutral,negative,0.6583205,0.13253787,0.20914161
+2871:2139,2871,"Leon is an East Village gem: casual but hip, with well prepared basic French bistro fare, good specials, a warm and lively atmosphere.",specials,positive,positive,3.2964905e-05,8.2105566e-05,0.99988484
+2871:2140,2871,"Leon is an East Village gem: casual but hip, with well prepared basic French bistro fare, good specials, a warm and lively atmosphere.",atmosphere,positive,positive,5.7114485e-06,1.1233888e-05,0.9999831
+2871:2141,2871,"Leon is an East Village gem: casual but hip, with well prepared basic French bistro fare, good specials, a warm and lively atmosphere.",French bistro fare,positive,positive,1.4334254e-05,6.749113e-05,0.9999182
+1254:2151,1254,The Thai ice tea was amazingly smooth and yummy!,Thai ice tea,positive,positive,1.0377822e-05,1.2386513e-05,0.99997723
+1665:2153,1665,Drinks way over priced.,Drinks,negative,negative,0.6647156,0.31681505,0.018469324
+1665:2154,1665,Drinks way over priced.,priced,negative,negative,0.8487907,0.13738266,0.013826631
+3571:2167,3571,The food was mediocre at best but it was the horrible service that made me vow never to go back.,food,neutral,negative,0.96582043,0.017999886,0.016179683
+3571:2168,3571,The food was mediocre at best but it was the horrible service that made me vow never to go back.,service,negative,negative,0.9663629,0.009282392,0.024354618
+2415:2171,2415,"You get what you pay for and with that logic in mind, Spice is a great place to grab some cheap eats and drinks in a beautiful setting.",eats,positive,positive,0.05986149,0.057737466,0.88240105
+2415:2172,2415,"You get what you pay for and with that logic in mind, Spice is a great place to grab some cheap eats and drinks in a beautiful setting.",drinks,positive,positive,0.00988417,0.023489797,0.96662605
+2415:2173,2415,"You get what you pay for and with that logic in mind, Spice is a great place to grab some cheap eats and drinks in a beautiful setting.",setting,positive,positive,0.06589161,0.08806937,0.846039
+1328:2205,1328,"Also, the hostess called me today to thank us for coming and mentioned how she hoped that my girlfriend enjoyed her birthday - unexpected, but a truly above and beyond thing to do...",hostess,positive,positive,0.023671817,0.34610376,0.6302244
+1482:2207,1482,"The plain slice is great and if you get toppings, the whole slice is topped with them, not sparsely sprinkled on like some places.",plain slice,positive,positive,0.03424491,0.09992004,0.86583513
+1482:2208,1482,"The plain slice is great and if you get toppings, the whole slice is topped with them, not sparsely sprinkled on like some places.",toppings,positive,neutral,0.003792266,0.7403317,0.255876
+1675:2216,1675,"For the quality of food, a little too expensive.",quality of food,negative,negative,0.47969347,0.064472094,0.45583436
+2718:2220,2718,"The first time I went, and was completely taken by the live jazz band and atmosphere, I ordered the Lobster Cobb Salad.",live jazz band,positive,positive,0.00039552472,0.010716165,0.9888883
+2718:2221,2718,"The first time I went, and was completely taken by the live jazz band and atmosphere, I ordered the Lobster Cobb Salad.",atmosphere,positive,positive,0.015569447,0.36623505,0.6181954
+2718:2222,2718,"The first time I went, and was completely taken by the live jazz band and atmosphere, I ordered the Lobster Cobb Salad.",Lobster Cobb Salad,neutral,neutral,0.0150176175,0.5806105,0.40437186
+2233:2245,2233,Definitely not worth the price!,price,negative,negative,0.99542254,0.0017068638,0.0028705387
+1120:2253,1120,"I ordered tamarind duck and my wife ordered noodles with ground beef, and we were both delighted by the way the dishes evoked Thai flavors in unexpected ways.",tamarind duck,positive,positive,0.0019422082,0.1300559,0.8680019
+1120:2254,1120,"I ordered tamarind duck and my wife ordered noodles with ground beef, and we were both delighted by the way the dishes evoked Thai flavors in unexpected ways.",noodles with ground beef,positive,positive,0.0022867552,0.40712816,0.5905851
+1120:2255,1120,"I ordered tamarind duck and my wife ordered noodles with ground beef, and we were both delighted by the way the dishes evoked Thai flavors in unexpected ways.",dishes,positive,positive,0.004191406,0.057943247,0.93786544
+1120:2256,1120,"I ordered tamarind duck and my wife ordered noodles with ground beef, and we were both delighted by the way the dishes evoked Thai flavors in unexpected ways.",Thai flavors,positive,positive,0.00035447293,0.0047460985,0.99489945
+1357:2266,1357,Total hipster-wannabe attitude in an otherwise sweet spot.,spot,positive,positive,0.037290264,0.00048187203,0.9622278
+1096:2294,1096,This is definitely an  excellent date spot because of the ambiance and on the weekends the  night scene is more than alive.,ambiance,positive,positive,0.00026619478,0.00070895575,0.99902487
+1096:2295,1096,This is definitely an  excellent date spot because of the ambiance and on the weekends the  night scene is more than alive.,night scene,positive,positive,0.004098436,0.008157672,0.9877438
+1096:2296,1096,This is definitely an  excellent date spot because of the ambiance and on the weekends the  night scene is more than alive.,spot,positive,positive,0.007400511,0.00062580867,0.99197376
+1591:2299,1591,I loved everythig about it-especially the shows and actors.,shows,positive,positive,0.0004508761,0.0017996068,0.9977495
+1591:2300,1591,I loved everythig about it-especially the shows and actors.,actors,positive,positive,0.00043698115,0.0020780498,0.9974849
+2240:2301,2240,The service was fast and friendly and the food was very tasty and they had the best hot sauce to add to your meals.,service,positive,positive,0.0021050016,0.00030234893,0.9975926
+2240:2302,2240,The service was fast and friendly and the food was very tasty and they had the best hot sauce to add to your meals.,food,positive,positive,0.004254897,0.0061937384,0.98955137
+2240:2303,2240,The service was fast and friendly and the food was very tasty and they had the best hot sauce to add to your meals.,hot sauce,positive,positive,0.0040328684,0.004090716,0.9918765
+2240:2304,2240,The service was fast and friendly and the food was very tasty and they had the best hot sauce to add to your meals.,meals,neutral,positive,0.0024184203,0.004835215,0.9927464
+2923:2306,2923,Zero ambiance to boot.,ambiance,negative,negative,0.97718984,0.015462676,0.0073475246
+2854:2307,2854,Scalina Fedeli reminded me why service is so integral to fine dining.,service,positive,negative,0.7670483,0.19070104,0.04225075
+2854:2308,2854,Scalina Fedeli reminded me why service is so integral to fine dining.,dining,positive,neutral,0.046845376,0.84506196,0.108092695
+3392:2309,3392,i recommend the thai popcorn :),thai popcorn,positive,positive,0.00077388226,0.0059561078,0.99327
+1618:2323,1618,"We had great desserts (including the best cannoli I've ever had) and then they offered an after dinner drink, on the house.",desserts,positive,positive,1.4622289e-05,0.007936203,0.99204916
+1618:2324,1618,"We had great desserts (including the best cannoli I've ever had) and then they offered an after dinner drink, on the house.",cannoli,positive,positive,0.0007860382,0.019278808,0.9799351
+1618:2325,1618,"We had great desserts (including the best cannoli I've ever had) and then they offered an after dinner drink, on the house.",after dinner drink,positive,neutral,0.0019671856,0.9108527,0.08718008
+3253:2330,3253,"Good to find a restaurant where the owners have some imagination and they have actually pulled it off, like in this case.",owners,positive,positive,0.05980726,0.02672095,0.9134718
+2411:2331,2411,"However, their popularity has yet to slow down, and I still find myself drawn to their ambiance and delectable reputation.",ambiance,positive,positive,0.00020215995,2.1719801e-05,0.9997762
+2667:2336,2667,"The Halibut was too salty, dessert was so so (don't waste any of your calories) and service was poor.",Halibut,negative,negative,0.9732959,0.020680327,0.0060236817
+2667:2337,2667,"The Halibut was too salty, dessert was so so (don't waste any of your calories) and service was poor.",dessert,neutral,negative,0.46899626,0.3773142,0.15368949
+2667:2338,2667,"The Halibut was too salty, dessert was so so (don't waste any of your calories) and service was poor.",service,negative,negative,0.9518326,0.025965815,0.022201555
+2832:2344,2832,"The food is wonderful, tasty and filling, and the service is professional and friendly.",food,positive,positive,3.8758528e-05,0.0011072946,0.9988539
+2832:2345,2832,"The food is wonderful, tasty and filling, and the service is professional and friendly.",service,positive,positive,1.2560968e-05,0.00020149862,0.99978596
+1739:2347,1739,Always great service!,service,positive,positive,0.00090295717,0.00078013825,0.998317
+883:2349,883,"We ordered the chicken casserole, but what we got were a few small pieces of chicken, all dark meat and on the bone.",chicken casserole,negative,negative,0.60914963,0.36974233,0.021108057
+883:2350,883,"We ordered the chicken casserole, but what we got were a few small pieces of chicken, all dark meat and on the bone.",chicken,negative,negative,0.6943082,0.2004593,0.10523245
+883:2351,883,"We ordered the chicken casserole, but what we got were a few small pieces of chicken, all dark meat and on the bone.",meat,negative,negative,0.49138832,0.40529743,0.103314206
+1968:2353,1968,I went to DF for Valentines Day dinner.,Valentines Day dinner,neutral,neutral,0.00060617557,0.93088907,0.06850477
+838:2362,838,The aesthetics of this place are like an airport lounge.,aesthetics,negative,positive,0.07093827,0.013179598,0.9158821
+838:2363,838,The aesthetics of this place are like an airport lounge.,place,negative,positive,0.20935555,0.0471054,0.7435391
+3377:2364,3377,"Then, get ripped on free box wine.",box wine,positive,neutral,0.2967511,0.66437787,0.038870946
+2631:2386,2631,"I have had so many dinners here and it's always been perfect - on a date with my husband, with my mom, with girlfriends and larger groups.",dinners,positive,neutral,0.0062918426,0.510633,0.48307523
+3137:2394,3137,"Also, if you don't want to sit at a certain table, you don't have to!",table,positive,positive,0.046331443,0.37073812,0.58293045
+1530:2403,1530,I've overheard comments from him to his employees that should not have been delivered in the dining area and I've been sitting there while he lectured another customer.,employees,negative,negative,0.67866987,0.24477103,0.07655911
+1530:2404,1530,I've overheard comments from him to his employees that should not have been delivered in the dining area and I've been sitting there while he lectured another customer.,dining area,neutral,neutral,0.03518469,0.92584187,0.038973432
+2997:2405,2997,Delicious crab cakes too.,crab cakes,positive,positive,0.0004428716,0.00013522214,0.99942195
+2087:2409,2087,Just bring someone who speaks Cantonese because waiter may not understand you.,waiter,negative,negative,0.9264723,0.06465937,0.008868299
+540:2410,540,The bruschetta and panini's are so yummy!,bruschetta,positive,positive,0.0049251188,0.0041585383,0.9909163
+540:2411,540,The bruschetta and panini's are so yummy!,panini,positive,positive,0.0037502423,0.00417481,0.99207485
+1799:2413,1799,Every waitress and customer who passed by me bumped into my chair.,waitress,neutral,negative,0.87782335,0.048214234,0.07396246
+273:2430,273,We had a party in their private room and they made it truly memorable and were very helpful in the planning.,private room,neutral,positive,0.0013093189,0.029055508,0.9696352
+3235:2438,3235,"The staff has always been friendly without seeming grating, and the chef has greeted us on a couple of occasions.",staff,positive,positive,0.058263462,0.03037616,0.91136044
+3235:2439,3235,"The staff has always been friendly without seeming grating, and the chef has greeted us on a couple of occasions.",chef,positive,positive,0.007264462,0.016745312,0.97599024
+910:2445,910,"Service was very good - prompt, attentive and non-intrusive.",Service,positive,positive,0.0018502821,0.0024336998,0.99571604
+2016:2451,2016,We began with the cheese fondue (the artisanal blend) and added apples and kielbasa to dip.,cheese fondue,neutral,positive,0.0023537015,0.007716386,0.98993
+2016:2452,2016,We began with the cheese fondue (the artisanal blend) and added apples and kielbasa to dip.,kielbasa,neutral,positive,0.0050633578,0.02459238,0.9703442
+2016:2453,2016,We began with the cheese fondue (the artisanal blend) and added apples and kielbasa to dip.,apples,neutral,positive,0.04441354,0.17806153,0.7775249
+2418:2464,2418,"The bread is the soft paratha bread (unlike the plain bread they use in Calcutta), and the stuffing is tandoori styled and very flavorful.",bread,positive,positive,0.12783173,0.10072536,0.7714429
+2418:2465,2418,"The bread is the soft paratha bread (unlike the plain bread they use in Calcutta), and the stuffing is tandoori styled and very flavorful.",paratha bread,positive,positive,0.072157316,0.023095692,0.904747
+2418:2466,2418,"The bread is the soft paratha bread (unlike the plain bread they use in Calcutta), and the stuffing is tandoori styled and very flavorful.",bread,negative,positive,0.12783173,0.10072536,0.7714429
+2418:2467,2418,"The bread is the soft paratha bread (unlike the plain bread they use in Calcutta), and the stuffing is tandoori styled and very flavorful.",stuffing,positive,positive,0.09895376,0.051906984,0.8491392
+2418:2468,2418,"The bread is the soft paratha bread (unlike the plain bread they use in Calcutta), and the stuffing is tandoori styled and very flavorful.",tandoori,positive,positive,0.013290969,0.02164282,0.9650662
+1206:2488,1206,The place is small and cramped but the food is fantastic.,place,negative,negative,0.7721146,0.06379819,0.16408725
+1206:2489,1206,The place is small and cramped but the food is fantastic.,food,positive,positive,0.13923138,0.032327626,0.828441
+1164:2499,1164,The food there is so good that even to order out the wait is incredible.,food,positive,positive,0.00046375563,0.0013353131,0.9982009
+1164:2500,1164,The food there is so good that even to order out the wait is incredible.,wait,negative,positive,0.26166734,0.12008893,0.61824375
+429:2505,429,"For authentic Thai food, look no further than Toons.",Thai food,positive,negative,0.46231633,0.08839092,0.44929278
+3401:2517,3401,"Small servings for main entree, i had salmon (wasnt impressed) girlfriend had chicken, it was good.",salmon,negative,neutral,0.117370486,0.69864166,0.18398783
+3401:2518,3401,"Small servings for main entree, i had salmon (wasnt impressed) girlfriend had chicken, it was good.",chicken,positive,positive,0.08380968,0.32670727,0.58948296
+3401:2519,3401,"Small servings for main entree, i had salmon (wasnt impressed) girlfriend had chicken, it was good.",servings,negative,neutral,0.10526432,0.70920193,0.18553375
+3401:2520,3401,"Small servings for main entree, i had salmon (wasnt impressed) girlfriend had chicken, it was good.",entree,negative,neutral,0.04390591,0.8797347,0.07635944
+1226:2521,1226,you can actually get 2 salads worth if u take it home and add it to some lettuce!,salads,negative,neutral,0.049539473,0.70760334,0.24285719
+1226:2522,1226,you can actually get 2 salads worth if u take it home and add it to some lettuce!,lettuce,neutral,positive,0.025945714,0.28209928,0.69195503
+1313:2536,1313,I ate here a week ago and found most dishes average at best and too expensive.,dishes,negative,negative,0.9732021,0.020044547,0.006753287
+2902:2537,2902,"Still, try it once, since if you end up loving the food, it could be one of your best dining experiences.",food,neutral,positive,0.21748303,0.1419055,0.6406114
+2902:2538,2902,"Still, try it once, since if you end up loving the food, it could be one of your best dining experiences.",dining experiences,positive,positive,0.081575036,0.00972463,0.90870035
+153:2557,153,This is one of the best comfort food places in the city.,comfort food,positive,positive,5.948328e-05,4.418319e-05,0.9998963
+3265:2596,3265,"I must warn the reader that the portions sizes are very small (especially the appetizers), so if you plan to eat until you are full and do not intend to order the chef's special tasting menu, prepare to order and pay for an appetizer (1 dish for each person because the portions are not for sharing), a main entree, and the cold udon at the end of the meal.",portions,negative,neutral,0.20237954,0.771191,0.026429469
+3265:2597,3265,"I must warn the reader that the portions sizes are very small (especially the appetizers), so if you plan to eat until you are full and do not intend to order the chef's special tasting menu, prepare to order and pay for an appetizer (1 dish for each person because the portions are not for sharing), a main entree, and the cold udon at the end of the meal.",appetizers,negative,neutral,0.0055810916,0.97931594,0.015102967
+3265:2598,3265,"I must warn the reader that the portions sizes are very small (especially the appetizers), so if you plan to eat until you are full and do not intend to order the chef's special tasting menu, prepare to order and pay for an appetizer (1 dish for each person because the portions are not for sharing), a main entree, and the cold udon at the end of the meal.",appetizer,negative,neutral,0.00628736,0.9805683,0.01314438
+3265:2599,3265,"I must warn the reader that the portions sizes are very small (especially the appetizers), so if you plan to eat until you are full and do not intend to order the chef's special tasting menu, prepare to order and pay for an appetizer (1 dish for each person because the portions are not for sharing), a main entree, and the cold udon at the end of the meal.",main entree,neutral,neutral,0.013091699,0.97376096,0.013147372
+3265:2600,3265,"I must warn the reader that the portions sizes are very small (especially the appetizers), so if you plan to eat until you are full and do not intend to order the chef's special tasting menu, prepare to order and pay for an appetizer (1 dish for each person because the portions are not for sharing), a main entree, and the cold udon at the end of the meal.",cold udon,neutral,neutral,0.01046094,0.8618215,0.12771766
+3265:2601,3265,"I must warn the reader that the portions sizes are very small (especially the appetizers), so if you plan to eat until you are full and do not intend to order the chef's special tasting menu, prepare to order and pay for an appetizer (1 dish for each person because the portions are not for sharing), a main entree, and the cold udon at the end of the meal.",chef,positive,neutral,0.111780725,0.8330762,0.05514311
+3265:2602,3265,"I must warn the reader that the portions sizes are very small (especially the appetizers), so if you plan to eat until you are full and do not intend to order the chef's special tasting menu, prepare to order and pay for an appetizer (1 dish for each person because the portions are not for sharing), a main entree, and the cold udon at the end of the meal.",menu,positive,neutral,0.052547626,0.9201527,0.027299633
+3265:2603,3265,"I must warn the reader that the portions sizes are very small (especially the appetizers), so if you plan to eat until you are full and do not intend to order the chef's special tasting menu, prepare to order and pay for an appetizer (1 dish for each person because the portions are not for sharing), a main entree, and the cold udon at the end of the meal.",dish,negative,neutral,0.082841076,0.88127065,0.035888307
+3265:2604,3265,"I must warn the reader that the portions sizes are very small (especially the appetizers), so if you plan to eat until you are full and do not intend to order the chef's special tasting menu, prepare to order and pay for an appetizer (1 dish for each person because the portions are not for sharing), a main entree, and the cold udon at the end of the meal.",portions,negative,neutral,0.20237954,0.771191,0.026429469
+364:2609,364,"After the main course came, we didn't see our waiter for at least 40 MINUTES!",main course,neutral,neutral,0.31485566,0.41266006,0.27248424
+364:2610,364,"After the main course came, we didn't see our waiter for at least 40 MINUTES!",waiter,negative,negative,0.58563304,0.123030856,0.2913361
+2330:2612,2330,"When family came in he gave them apps to test their palets, and then ordered for them.",apps,neutral,negative,0.59457874,0.350744,0.0546773
+308:2621,308,"After a seafood craving, i checked citysearch and chose to go to Fish based on a previous review and the citysearch info.",seafood,neutral,neutral,0.13319996,0.7484741,0.11832592
+1872:2624,1872,"Thalia is a beautiful restaurant with beautiful people serving you, but the food doesn't quite match up.",people serving,positive,positive,0.05265285,0.011288003,0.9360591
+1872:2625,1872,"Thalia is a beautiful restaurant with beautiful people serving you, but the food doesn't quite match up.",food,negative,positive,0.054109383,0.028945692,0.9169449
+2778:2643,2778,"Found service above average, but that could be because we were 13 of us.",service,positive,neutral,0.05358158,0.93979657,0.0066218735
+2577:2645,2577,fine dining restaurant quality.,quality,positive,positive,0.0024562203,0.015871366,0.98167247
+3174:2684,3174,Won't or Can't is not in the service directory.,service,positive,negative,0.6995329,0.1759197,0.12454735
+1232:2709,1232,big and soft as well as good lunch food.,lunch food,positive,positive,3.5399032e-06,4.527001e-06,0.9999919
+2529:2716,2529,"As for the bar, this is another bad idea.",bar,negative,negative,0.82369274,0.17542166,0.00088555604
+1080:2728,1080,The highly spiced chai tea was great too.,chai tea,positive,positive,0.00040507677,0.00027001026,0.9993249
+872:2734,872,I would highly recommend this place to anyone looking for a casual atmosphere that whisks you away to the left bank of the river Seine.,atmosphere,positive,positive,0.02349939,0.023972122,0.9525285
+3507:2736,3507,"His wife Tanya, the hostess, completes the comforting atmosphere by being delightfully warm and gracious.",hostess,positive,positive,8.335097e-06,0.00012087882,0.9998708
+3507:2737,3507,"His wife Tanya, the hostess, completes the comforting atmosphere by being delightfully warm and gracious.",atmosphere,positive,positive,1.06341295e-05,9.921128e-05,0.9998902
+2080:2743,2080,We even had a visit from the Manager who wanted to make sure we were enjoying ourselves.,Manager,positive,positive,0.2656376,0.0823488,0.65201366
+712:2748,712,"The service is always bad though, don't expect much of anything from your server, and I would not recommend bringing a date here either.",service,negative,negative,0.9883717,0.009527366,0.0021008456
+712:2749,712,"The service is always bad though, don't expect much of anything from your server, and I would not recommend bringing a date here either.",server,negative,negative,0.9739456,0.022477351,0.0035770424
+979:2755,979,The service is descent even when this small place is packed.,service,positive,positive,0.11730987,0.01916099,0.86352915
+979:2756,979,The service is descent even when this small place is packed.,place,negative,positive,0.29944432,0.08167989,0.6188758
+2843:2762,2843,From the complimentary chef app of a delicate butternut squash ravioli in a delicious truffle sauce to an amazing buttery and tender langostine entree to a dessert that I can't remember because of the fabulous Cakebread Cabernet we were drinking -- the whole evening was amazing.,chef app,positive,positive,0.0001126203,0.0007678331,0.99911946
+2843:2763,2843,From the complimentary chef app of a delicate butternut squash ravioli in a delicious truffle sauce to an amazing buttery and tender langostine entree to a dessert that I can't remember because of the fabulous Cakebread Cabernet we were drinking -- the whole evening was amazing.,delicate butternut squash ravioli in a delicious truffle sauce,positive,positive,3.3767934e-05,0.0046313815,0.9953348
+2843:2764,2843,From the complimentary chef app of a delicate butternut squash ravioli in a delicious truffle sauce to an amazing buttery and tender langostine entree to a dessert that I can't remember because of the fabulous Cakebread Cabernet we were drinking -- the whole evening was amazing.,buttery and tender langostine entree,positive,positive,2.6463385e-06,8.581971e-05,0.99991155
+2843:2765,2843,From the complimentary chef app of a delicate butternut squash ravioli in a delicious truffle sauce to an amazing buttery and tender langostine entree to a dessert that I can't remember because of the fabulous Cakebread Cabernet we were drinking -- the whole evening was amazing.,dessert,neutral,positive,0.000728399,0.05750367,0.941768
+2843:2766,2843,From the complimentary chef app of a delicate butternut squash ravioli in a delicious truffle sauce to an amazing buttery and tender langostine entree to a dessert that I can't remember because of the fabulous Cakebread Cabernet we were drinking -- the whole evening was amazing.,Cakebread Cabernet,positive,positive,0.00038612814,0.03584518,0.9637687
+2161:2781,2161,The lox is always fresh too.,lox,positive,positive,0.0056642666,0.003971211,0.9903645
+14:2789,14,"The whole set up is truly unprofessional and I wish Cafe Noir would get some good staff, because despite the current one this is a great place.",staff,negative,positive,0.42207354,0.005383775,0.57254267
+160:2792,160,We ended our great experience by having Gulab Jamun (dessert) recommended by the waiter.,Gulab Jamun (dessert),positive,positive,0.0036405867,0.21604489,0.78031456
+160:2793,160,We ended our great experience by having Gulab Jamun (dessert) recommended by the waiter.,waiter,positive,positive,0.017794918,0.4541107,0.52809435
+2427:2794,2427,"This place doesn't compare with Mamoun's in terms of price, freshness, value, and consisent quality, but that's just my opinion.",price,negative,positive,0.098634906,0.4148248,0.48654032
+2427:2795,2427,"This place doesn't compare with Mamoun's in terms of price, freshness, value, and consisent quality, but that's just my opinion.",freshness,negative,positive,0.0016472891,0.015024085,0.9833286
+2427:2796,2427,"This place doesn't compare with Mamoun's in terms of price, freshness, value, and consisent quality, but that's just my opinion.",value,negative,positive,0.09652133,0.3159234,0.5875553
+2427:2797,2427,"This place doesn't compare with Mamoun's in terms of price, freshness, value, and consisent quality, but that's just my opinion.",quality,negative,positive,0.089172356,0.3477334,0.56309426
+2206:2804,2206,"After being told that our party of three would be seated in 10 minutes and watching other parties (multiples of 2 and higher) seated for 40 minutes, the three of us were squished into a small 2-person table.",2-person table,negative,neutral,0.08306225,0.868123,0.04881476
+2994:2809,2994,"Kind, attentive wait staff.",wait staff,positive,positive,0.03661579,0.013895055,0.9494891
+2993:2846,2993,delicious simple food in nice outdoor atmosphere.,food,positive,positive,7.823088e-05,0.0015887398,0.99833304
+2993:2847,2993,delicious simple food in nice outdoor atmosphere.,atmosphere,positive,positive,0.00089465093,0.009384024,0.98972136
+3412:2856,3412,This place has the the correct ambience and an excellent staff to make you feel like a guest and a friend at the same time.,place,positive,positive,0.018083755,0.053057678,0.9288586
+3412:2857,3412,This place has the the correct ambience and an excellent staff to make you feel like a guest and a friend at the same time.,ambience,positive,positive,6.752893e-05,0.0007653329,0.9991672
+3412:2858,3412,This place has the the correct ambience and an excellent staff to make you feel like a guest and a friend at the same time.,staff,positive,positive,0.019265095,0.036101222,0.9446337
+1708:2865,1708,"I had a late dinner at Lucky Stike, a great name for a joint if ever I saw one.",dinner,neutral,neutral,0.040949315,0.557705,0.40134573
+1514:2868,1514,And they have these home made potato chips at the bar that are the most delicious things in the world!,potato chips,positive,positive,0.0008047953,0.005685089,0.99351007
+1514:2869,1514,And they have these home made potato chips at the bar that are the most delicious things in the world!,bar,neutral,positive,0.0035832154,0.46889457,0.52752227
+2781:2872,2781,"We all ate pasta entre'es, which were great.",pasta entre'es,positive,positive,0.0025724133,0.13882801,0.8585996
+3510:2887,3510,I was here a few weeks back and we had the worst customer service experience at a restaurant ever.,customer service,negative,negative,0.9759177,0.022199363,0.0018829603
+2898:2914,2898,"The main course had an average portion, and was decent overall.",main course,positive,positive,0.021025976,0.031428322,0.9475456
+2898:2915,2898,"The main course had an average portion, and was decent overall.",portion,neutral,positive,0.045283183,0.09539651,0.85932034
+2468:2922,2468,"I don't like Indian food too much and this was delicious, however you want to factor that into the equation.",Indian food,positive,neutral,0.009858709,0.9870892,0.0030520752
+2093:2924,2093,I won't go back unless someone else is footing the bill.,bill,negative,neutral,0.04028686,0.9116631,0.048049975
+382:2934,382,"The calamari comes with an incredible sauce, and the duck noodles are yummy as well.",calamari,positive,positive,0.041258816,0.0008320165,0.95790917
+382:2935,382,"The calamari comes with an incredible sauce, and the duck noodles are yummy as well.",sauce,positive,positive,0.03521156,0.02243166,0.9423567
+382:2936,382,"The calamari comes with an incredible sauce, and the duck noodles are yummy as well.",duck noodles,positive,positive,0.0058462825,0.00089498365,0.9932587
+185:2951,185,"Also, specify if you like your food spicy- its rather bland if you don't.",food,neutral,neutral,0.3512564,0.38969022,0.25905338
+2610:2956,2610,Coming from Boston this place is like Emma's Pizza in Kendall Square in Cambridge (although they have more funky toppings!),toppings,positive,neutral,0.00833701,0.6455417,0.34612122
+3250:2981,3250,"They are still living in the dark ages and do not have an answering machine, so if you want to make a reservation you are limited.",reservation,negative,neutral,0.059212822,0.9370311,0.0037561215
+2029:3020,2029,We ran a little late for the reservation but it wasn't a problem to get our table immediately.,reservation,neutral,negative,0.62383664,0.3630806,0.013082786
+2029:3021,2029,We ran a little late for the reservation but it wasn't a problem to get our table immediately.,table,positive,negative,0.48100287,0.41766813,0.10132902
+314:3026,314,"All I can say is $2 pints during happy hour and the some of the cheapest oysters you'll find in the city, though the quality is some of the best.",oysters,positive,positive,0.109429255,0.017395517,0.87317526
+314:3027,314,"All I can say is $2 pints during happy hour and the some of the cheapest oysters you'll find in the city, though the quality is some of the best.",quality,positive,positive,0.057307437,0.13977803,0.8029145
+3107:3028,3107,"I would never wait for a table to eat, it just is not THAT great.",table,neutral,negative,0.6572116,0.31229892,0.03048951
+2701:3031,2701,"Service here was great, food was fantastic.",Service,positive,positive,0.00050031114,0.00070769485,0.998792
+2701:3032,2701,"Service here was great, food was fantastic.",food,positive,positive,5.8717314e-06,0.0002482208,0.9997459
+1601:3040,1601,They have some great entrees here as well.,entrees,positive,positive,0.00020712454,0.00041557048,0.9993773
+3668:3047,3668,I had the mango chicken and i can't go on to tell you how delicious that was and the presentation was beatiful.,mango chicken,positive,positive,0.32571647,0.02319312,0.65109044
+3668:3048,3668,I had the mango chicken and i can't go on to tell you how delicious that was and the presentation was beatiful.,presentation,positive,negative,0.5896436,0.10233193,0.30802447
+1748:3060,1748,Great pizza and fantastic service.,pizza,positive,positive,1.5598996e-05,0.00011013447,0.99987423
+1748:3061,1748,Great pizza and fantastic service.,service,positive,positive,0.00045657658,0.0012316545,0.99831176
+1417:3072,1417,I ordered a Lassi and asked 4 times for it but never got it.,Lassi,neutral,neutral,0.078154765,0.9159955,0.005849732
+2856:3076,2856,"Despite the fact that the space is large, they've overcrowded the floor with tables.",space,positive,negative,0.5265463,0.17546248,0.29799125
+2856:3077,2856,"Despite the fact that the space is large, they've overcrowded the floor with tables.",tables,negative,negative,0.5815544,0.31050667,0.10793893
+1782:3081,1782,Taxan delicious!,Taxan,positive,positive,0.001548144,0.0040942766,0.99435765
+3419:3085,3419,"Southern Indian cuisine is still there, too.",Southern Indian cuisine,neutral,positive,0.0020569738,0.06897288,0.92897016
+2129:3089,2129,Killer Sushi!,Sushi,positive,positive,0.0034213953,0.032674298,0.96390426
+213:3099,213,The tastes makes your mouth water for more.,tastes,positive,negative,0.35503054,0.34935778,0.2956117
+2261:3100,2261,"Their sake list was extensive, but we were looking for Purple Haze, which wasn't listed but made for us upon request!",sake list,positive,positive,0.45984194,0.021855816,0.5183022
+341:3114,341,"Furthermore, the rice had no seasoning, so the sushi was bland and disgusting.",rice,negative,negative,0.9968785,0.0021016258,0.0010198182
+341:3115,341,"Furthermore, the rice had no seasoning, so the sushi was bland and disgusting.",sushi,negative,negative,0.9981499,0.0011444581,0.000705695
+341:3116,341,"Furthermore, the rice had no seasoning, so the sushi was bland and disgusting.",seasoning,negative,negative,0.93352896,0.060700398,0.005770713
+1399:3131,1399,"The food is consistently wonderful - I've been coming here for years, and the owner has always been accomodating and friendly.",food,positive,positive,0.00020402444,0.005306428,0.99448955
+1399:3132,1399,"The food is consistently wonderful - I've been coming here for years, and the owner has always been accomodating and friendly.",owner,positive,positive,0.0028368463,0.020452945,0.97671014
+1024:3136,1024,"If you're looking for a place to sit down, have a drink and conversations with friends, go to sweet-n-tart and order yourself a hong-kong styled milk and tea with tapioca pearls (hot).",drink,neutral,neutral,0.028722286,0.72759473,0.24368295
+1024:3137,1024,"If you're looking for a place to sit down, have a drink and conversations with friends, go to sweet-n-tart and order yourself a hong-kong styled milk and tea with tapioca pearls (hot).",hong-kong styled milk,positive,positive,0.0075293626,0.44906166,0.54340893
+1024:3138,1024,"If you're looking for a place to sit down, have a drink and conversations with friends, go to sweet-n-tart and order yourself a hong-kong styled milk and tea with tapioca pearls (hot).",tea with tapioca pearls (hot),positive,positive,0.0001078878,0.007983927,0.99190825
+394:3139,394,"Aside from the Sea Urchin, the chef recommended an assortment of fish including Fatty Yellow Tail, Boton Shrimp, Blue Fin Torro (Fatty Tuna), Sea Eel, etc.",chef,neutral,positive,0.22848235,0.1343577,0.63715994
+394:3140,394,"Aside from the Sea Urchin, the chef recommended an assortment of fish including Fatty Yellow Tail, Boton Shrimp, Blue Fin Torro (Fatty Tuna), Sea Eel, etc.",assortment of fish,neutral,positive,0.02528178,0.0053934637,0.9693248
+394:3141,394,"Aside from the Sea Urchin, the chef recommended an assortment of fish including Fatty Yellow Tail, Boton Shrimp, Blue Fin Torro (Fatty Tuna), Sea Eel, etc.",Fatty Yellow Tail,neutral,positive,0.045228496,0.0016344809,0.9531371
+394:3142,394,"Aside from the Sea Urchin, the chef recommended an assortment of fish including Fatty Yellow Tail, Boton Shrimp, Blue Fin Torro (Fatty Tuna), Sea Eel, etc.",Boton Shrimp,neutral,positive,0.4900217,0.0038097075,0.5061686
+394:3143,394,"Aside from the Sea Urchin, the chef recommended an assortment of fish including Fatty Yellow Tail, Boton Shrimp, Blue Fin Torro (Fatty Tuna), Sea Eel, etc.",Sea Eel,neutral,positive,0.14668518,0.019963406,0.8333514
+394:3144,394,"Aside from the Sea Urchin, the chef recommended an assortment of fish including Fatty Yellow Tail, Boton Shrimp, Blue Fin Torro (Fatty Tuna), Sea Eel, etc.",Sea Urchin,neutral,positive,0.17348875,0.0008778581,0.8256334
+394:3145,394,"Aside from the Sea Urchin, the chef recommended an assortment of fish including Fatty Yellow Tail, Boton Shrimp, Blue Fin Torro (Fatty Tuna), Sea Eel, etc.",Blue Fin Torro (Fatty Tuna),neutral,positive,0.31794134,0.0023191748,0.6797394
+1086:3161,1086,You can even get packages of the chutneys to stock your fridge!,chutneys,positive,positive,0.004012348,0.08224749,0.9137403
+2539:3162,2539,The bar has various selections and the mixed drink special is a catcher! 2 for 1's.,bar,positive,positive,0.003126963,0.31584823,0.68102473
+2539:3163,2539,The bar has various selections and the mixed drink special is a catcher! 2 for 1's.,mixed drink special,positive,positive,0.002551515,0.064987294,0.93246114
+2210:3178,2210,"The last two times I ordered from here my food was soo spicy that  I could barely eat it, and the spice took away from the flavor of the dish.",food,negative,negative,0.96150607,0.036688723,0.0018051955
+2210:3179,2210,"The last two times I ordered from here my food was soo spicy that  I could barely eat it, and the spice took away from the flavor of the dish.",flavor,negative,negative,0.9713334,0.025834396,0.002832235
+2210:3180,2210,"The last two times I ordered from here my food was soo spicy that  I could barely eat it, and the spice took away from the flavor of the dish.",dish,negative,negative,0.9466958,0.04992478,0.0033794416
+2210:3181,2210,"The last two times I ordered from here my food was soo spicy that  I could barely eat it, and the spice took away from the flavor of the dish.",spice,negative,negative,0.99164224,0.007683998,0.0006738203
+1699:3182,1699,The fried dumplings are GREAT!,fried dumplings,positive,positive,1.9944775e-05,1.947304e-05,0.99996066
+2471:3242,2471,"The only weird thing was if we got a bottle, the waitress would have simply multiplied the glass price X4, which makes no sense whatsoever.",bottle,neutral,negative,0.9759478,0.022782037,0.0012701758
+2471:3243,2471,"The only weird thing was if we got a bottle, the waitress would have simply multiplied the glass price X4, which makes no sense whatsoever.",waitress,negative,negative,0.9971089,0.002115336,0.00077584735
+2471:3244,2471,"The only weird thing was if we got a bottle, the waitress would have simply multiplied the glass price X4, which makes no sense whatsoever.",price,negative,negative,0.9935306,0.005389889,0.0010795404
+1325:3254,1325,"I took my girlfriend there for her birthday last night and we had a relaxing, really good meal.",meal,positive,positive,0.0010894772,0.07142701,0.9274835
+1162:3258,1162,"Good atmosphere, combination of all the hottest music dress code is relatively strict except on Fridays.",atmosphere,positive,positive,0.00012796695,0.00017813209,0.9996939
+1162:3259,1162,"Good atmosphere, combination of all the hottest music dress code is relatively strict except on Fridays.",music,positive,positive,0.0005716885,0.0029936447,0.9964347
+1162:3260,1162,"Good atmosphere, combination of all the hottest music dress code is relatively strict except on Fridays.",dress cod,negative,positive,0.0033589064,0.012447959,0.98419315
+1716:3270,1716,Lucky Strike is a great casual place to just grab a bite to eat.,place,positive,positive,0.05605636,0.12580097,0.81814265
+508:3276,508,Frites were delicious if a bit on the thick side.,Frites,positive,positive,0.045453228,0.0007744536,0.95377237
+140:3281,140,I fell in love with the egg noodles in the beef broth with shrimp dumplings and slices of BBQ roast pork.,egg noodles in the beef broth with shrimp dumplings and slices of BBQ roast pork,positive,positive,0.0002736885,0.007493421,0.9922329
+2289:3301,2289,The service is good and the resturant is clean.,service,positive,positive,0.0007993937,0.0011208171,0.9980798
+527:3302,527,"Great spot, whether looking for a couple of drinks or quiet dinner.",drinks,positive,positive,0.04201145,0.32585427,0.6321343
+527:3303,527,"Great spot, whether looking for a couple of drinks or quiet dinner.",dinner,positive,positive,0.08082508,0.3443527,0.57482225
+527:3304,527,"Great spot, whether looking for a couple of drinks or quiet dinner.",spot,positive,positive,0.31546617,0.0042990334,0.6802348
+1766:3311,1766,Food is excellent.,Food,positive,positive,0.000103159626,0.079248585,0.9206482
+2571:3320,2571,"Ambience is so cute and quaint, good for business although we were there on vacation.",Ambience,positive,positive,4.7100584e-05,0.00020740411,0.99974555
+1119:3324,1119,"This wasn't the expected menu comprised only of pad thai and tom yum soup, but I thought that was what made the place so special.",menu,neutral,positive,0.25753784,0.2497452,0.49271697
+1119:3325,1119,"This wasn't the expected menu comprised only of pad thai and tom yum soup, but I thought that was what made the place so special.",pad thai,neutral,neutral,0.017074764,0.8102979,0.17262733
+1119:3326,1119,"This wasn't the expected menu comprised only of pad thai and tom yum soup, but I thought that was what made the place so special.",tom yum soup,neutral,neutral,0.030256225,0.5792043,0.3905395
+1158:3327,1158,"Good food at the restaurant (a bit expensive, but great if you want to impress your date).",food,positive,positive,0.022886384,0.3020776,0.675036
+3254:3330,3254,I have eaten there 3-4 times and the food was always good.,food,positive,positive,0.0009649149,0.25213897,0.7468961
+1467:3332,1467,"great eats, good times.",eats,positive,positive,7.727133e-06,0.0001434601,0.9998487
+970:3333,970,"Grilled whole fish wonderful, great spicing.",fish,positive,positive,0.021902502,0.026276452,0.951821
+3506:3334,3506,"For years, I thought Tuscan cuisine was the best, but Salvatore converted me to the hearty Neapolitan fare on my first visit.",Neapolitan fare,positive,positive,0.0005434547,0.00032448498,0.9991321
+2314:3338,2314,The service was great as well.,service,positive,positive,0.00019852513,0.0028662381,0.99693525
+938:3345,938,"I found the food, service and value exceptional everytime I have been there.",food,positive,positive,0.00030432414,0.0013082499,0.99838746
+938:3346,938,"I found the food, service and value exceptional everytime I have been there.",service,positive,positive,0.00035504057,0.0006741082,0.99897087
+938:3347,938,"I found the food, service and value exceptional everytime I have been there.",value,positive,positive,0.0009519028,0.0015270629,0.997521
+3017:3350,3017,"I am a 100 lb girl, had a glass of wine and a glass of beer prior to the dinner, and I was still HUNGRY after my visit to this place!",glass of wine,neutral,neutral,0.040504638,0.93517387,0.02432149
+3017:3351,3017,"I am a 100 lb girl, had a glass of wine and a glass of beer prior to the dinner, and I was still HUNGRY after my visit to this place!",glass of beer,neutral,neutral,0.009634682,0.97957397,0.010791361
+3017:3352,3017,"I am a 100 lb girl, had a glass of wine and a glass of beer prior to the dinner, and I was still HUNGRY after my visit to this place!",dinner,neutral,neutral,0.005904287,0.9803569,0.01373883
+1366:3353,1366,"The drinks are a saving grace, but service staff, please, get over yourselves.",drinks,positive,neutral,0.004065804,0.8690976,0.12683664
+1366:3354,1366,"The drinks are a saving grace, but service staff, please, get over yourselves.",service staff,negative,positive,0.0027716614,0.0068121995,0.99041617
+2807:3363,2807,This place is the most Japanese it can ever get.,place,positive,positive,0.039054535,0.0044022575,0.95654315
+1534:3366,1534,"I didn't expect to like Nosh as much as I did, but the pastrami on challah sandwich I had was otherworldly, the soups are like Mom's, and the knishes give Yonah Schimmel's a run for its money.",pastrami on challah sandwich,positive,neutral,0.12482996,0.8276189,0.047551114
+1534:3367,1534,"I didn't expect to like Nosh as much as I did, but the pastrami on challah sandwich I had was otherworldly, the soups are like Mom's, and the knishes give Yonah Schimmel's a run for its money.",soups,positive,positive,0.009385976,0.2271239,0.76349014
+1534:3368,1534,"I didn't expect to like Nosh as much as I did, but the pastrami on challah sandwich I had was otherworldly, the soups are like Mom's, and the knishes give Yonah Schimmel's a run for its money.",knishes,positive,neutral,0.0027645926,0.75251013,0.24472535
+1778:3369,1778,"The atmosphere is nothing special, but it feels like a Sushi establishment in Tokyo.",atmosphere,neutral,positive,0.1942237,0.40132684,0.40444946
+2995:3373,2995,I really like both the scallops and the mahi mahi (on saffron risotto-yum!).,scallops,positive,positive,0.0008023622,0.009140236,0.9900574
+2995:3374,2995,I really like both the scallops and the mahi mahi (on saffron risotto-yum!).,mahi mahi (on saffron risotto,positive,positive,7.1266535e-05,0.03781613,0.9621126
+1733:3381,1733,Decor is charming.,Decor,positive,positive,0.0003152668,0.0099423975,0.9897424
+3266:3400,3266,"If you are someone who appreciates simplicity, elegance, and wonderfully presented and tasting seafood and vegetables regardless of portion size, Kai is your place.",seafood,positive,positive,0.0011788963,0.019617645,0.97920346
+3266:3401,3266,"If you are someone who appreciates simplicity, elegance, and wonderfully presented and tasting seafood and vegetables regardless of portion size, Kai is your place.",vegetables,positive,positive,0.0010960875,0.011252016,0.9876518
+3266:3402,3266,"If you are someone who appreciates simplicity, elegance, and wonderfully presented and tasting seafood and vegetables regardless of portion size, Kai is your place.",portion size,negative,positive,0.0045778714,0.21642509,0.778997
+966:3403,966,"The prices cannot be beat for the quality, quantity, freshness and taste.",prices,positive,positive,0.06027533,0.06696055,0.8727641
+966:3404,966,"The prices cannot be beat for the quality, quantity, freshness and taste.",quality,positive,positive,0.0046679317,0.00922935,0.9861027
+966:3405,966,"The prices cannot be beat for the quality, quantity, freshness and taste.",quantity,positive,positive,0.0063063097,0.002359202,0.9913345
+966:3406,966,"The prices cannot be beat for the quality, quantity, freshness and taste.",freshness,positive,positive,2.4213003e-05,0.00041595745,0.9995598
+966:3407,966,"The prices cannot be beat for the quality, quantity, freshness and taste.",taste,positive,positive,0.001849459,0.010918304,0.9872322
+937:3411,937,INCREDIBLY POOR SERVICE AN FOOD QUALITY AT EXORBITANT PRICES.,SERVICE,negative,negative,0.9995621,0.00015578677,0.0002821063
+937:3412,937,INCREDIBLY POOR SERVICE AN FOOD QUALITY AT EXORBITANT PRICES.,FOOD QUALITY,negative,negative,0.9995919,0.000111175694,0.00029689746
+937:3413,937,INCREDIBLY POOR SERVICE AN FOOD QUALITY AT EXORBITANT PRICES.,PRICES,negative,negative,0.998789,0.0004847478,0.0007262388
+41:3418,41,Horrible food and Horrible service.,food,negative,negative,0.9997545,6.0392198e-05,0.00018507156
+41:3419,41,Horrible food and Horrible service.,service,negative,negative,0.999226,7.416224e-05,0.00069980166
+739:3434,739,"The food came out wrong, the waiter was no where to be found and the wine showed up at the end of the meal.",food,negative,neutral,0.181022,0.81809914,0.00087885937
+739:3435,739,"The food came out wrong, the waiter was no where to be found and the wine showed up at the end of the meal.",waiter,negative,negative,0.7271456,0.27042976,0.002424629
+739:3436,739,"The food came out wrong, the waiter was no where to be found and the wine showed up at the end of the meal.",wine,negative,neutral,0.1952566,0.8016145,0.0031288797
+739:3437,739,"The food came out wrong, the waiter was no where to be found and the wine showed up at the end of the meal.",meal,neutral,neutral,0.040989455,0.9586209,0.00038958297
+2390:3441,2390,We saw them heating up at least one frozen item though I'm not sure which dim sum dish it was.,dim sum dish,negative,neutral,0.019239875,0.9750473,0.00571277
+3467:3442,3467,No you're going to go back because the food was good.,food,positive,positive,0.013639139,0.42287505,0.56348574
+3647:3459,3647,We were seated and ignored by waitstaff.,waitstaff,negative,negative,0.930154,0.06767828,0.002167679
+1508:3470,1508,"they did give a 15% discount at the end, wasn't enough, as they knew the service was horrible.",discount,negative,negative,0.9585721,0.03903724,0.0023906366
+1508:3471,1508,"they did give a 15% discount at the end, wasn't enough, as they knew the service was horrible.",service,negative,negative,0.9927658,0.006704256,0.00052999204
+2933:3477,2933,"When we notified him that he didn't mention the specials, he didn't apologize but let us know that we made a very good decision regardless.",specials,neutral,neutral,0.25556657,0.62151885,0.12291452
+930:3502,930,Try the Times Square cocktail -- ginger lemonade with vodka (also available without vodka.),Times Square cocktail,positive,positive,0.0137661155,0.1097287,0.87650514
+930:3503,930,Try the Times Square cocktail -- ginger lemonade with vodka (also available without vodka.),ginger lemonade with vodka,positive,positive,0.008390339,0.15524043,0.8363693
+444:3504,444,Veal Parmigana - Better than Patsy's!,Veal Parmigana,positive,positive,0.00055199396,0.009712736,0.98973536
+1038:3507,1038,"The service was mediocre, and the lack of air conditioning made for a less than comfortable meal.",service,neutral,negative,0.99899465,0.00043699754,0.0005683648
+1038:3508,1038,"The service was mediocre, and the lack of air conditioning made for a less than comfortable meal.",air conditioning,negative,negative,0.99987197,4.4839e-05,8.3217514e-05
+1038:3509,1038,"The service was mediocre, and the lack of air conditioning made for a less than comfortable meal.",meal,negative,negative,0.9975624,0.00091282505,0.0015247798
+1921:3510,1921,The food and staff always surprise me with the new heights they are taken to.,food,positive,positive,0.0019394278,0.19108802,0.80697256
+1921:3511,1921,The food and staff always surprise me with the new heights they are taken to.,staff,positive,positive,0.007399002,0.07934248,0.9132586
+151:3514,151,"However, if you want great food at a great price and don't mind the decor, you can't beat this place.",food,positive,positive,0.03317785,0.099813215,0.8670089
+151:3515,151,"However, if you want great food at a great price and don't mind the decor, you can't beat this place.",price,positive,positive,0.22148852,0.08164218,0.6968693
+151:3516,151,"However, if you want great food at a great price and don't mind the decor, you can't beat this place.",decor,negative,positive,0.37971908,0.09046422,0.52981675
+971:3523,971,Interesting other dishes for a change include chicken in curry sauce and salmon caserole.,dishes,positive,positive,0.11374576,0.39543322,0.490821
+971:3524,971,Interesting other dishes for a change include chicken in curry sauce and salmon caserole.,chicken in curry sauc,positive,positive,0.057346534,0.38366416,0.55898935
+971:3525,971,Interesting other dishes for a change include chicken in curry sauce and salmon caserole.,salmon caserole,positive,positive,0.119776964,0.37399447,0.50622857
+2243:3533,2243,"Its location is good and the fact that Hutner College is near and their prices are very reasonable, makes students go back to Suan again and again.",location,positive,positive,0.0013908027,0.0020119501,0.99659723
+2243:3534,2243,"Its location is good and the fact that Hutner College is near and their prices are very reasonable, makes students go back to Suan again and again.",prices,positive,positive,0.00727372,0.018491317,0.97423494
+482:3535,482,A wonderful place!,place,positive,positive,0.0033292114,0.0001872927,0.99648345
+2526:3536,2526,Deliveries often take up to an hour and the prices are higher than most other pizzerias in the area.,Deliveries,negative,negative,0.67002916,0.17107125,0.1588996
+2526:3537,2526,Deliveries often take up to an hour and the prices are higher than most other pizzerias in the area.,prices,negative,negative,0.54488075,0.3186143,0.13650496
+3044:3541,3044,"I've had the chicken with garlic sauce, chicken with black bean sauce, and hunan chicken.",chicken with garlic sauce,neutral,positive,0.0023251502,0.010296584,0.9873783
+3044:3542,3044,"I've had the chicken with garlic sauce, chicken with black bean sauce, and hunan chicken.",chicken with black bean sauce,neutral,positive,0.005277811,0.022600058,0.97212213
+3044:3543,3044,"I've had the chicken with garlic sauce, chicken with black bean sauce, and hunan chicken.",hunan chicken,neutral,positive,0.013765466,0.022543123,0.9636914
+1687:3546,1687,The dish had like 6 pieces of beef in it.,dish,neutral,negative,0.62854546,0.2851558,0.08629872
+1687:3547,1687,The dish had like 6 pieces of beef in it.,beef,neutral,neutral,0.18773136,0.7032353,0.109033324
+3567:3548,3567,We got in line and were served while in line a bannan fritter.,bannan fritter,neutral,positive,0.023048729,0.43651912,0.54043216
+3567:3549,3567,We got in line and were served while in line a bannan fritter.,served,neutral,positive,0.35965022,0.22962193,0.41072783
+2224:3550,2224,"It might have been a little too spicy for my friend, which you can couteract with eat more rice and keeping water on hand.",rice,neutral,negative,0.55521965,0.43358356,0.011196808
+2224:3551,2224,"It might have been a little too spicy for my friend, which you can couteract with eat more rice and keeping water on hand.",water,neutral,neutral,0.28434473,0.6737087,0.041946612
+137:3552,137,This place is always very crowded and popular.,place,positive,positive,0.10697978,0.0819629,0.8110573
+897:3555,897,My wife and I went to Orsay for Valentine's dinner.,dinner,neutral,neutral,0.00067389396,0.9896361,0.009690012
+2325:3567,2325,The selection changes frequently but the basic dishes are always available.,selection,neutral,neutral,0.21671806,0.4300931,0.35318884
+2325:3568,2325,The selection changes frequently but the basic dishes are always available.,basic dishes,neutral,neutral,0.007589618,0.49726537,0.49514502
+810:3572,810,My family and I ate here last night for our annual Christmas dinner with the family members who would rather spend the holidays with friends out-of-town.,Christmas dinner,neutral,neutral,0.00021229146,0.9535022,0.04628555
+564:3574,564,We were told that they were booked solid and no other table was available.,table,negative,negative,0.5176505,0.41360858,0.068740904
+2937:3583,2937,they were able to squeeze me in at 6 after i called the night before my anniversary for a friday night reservation and told me they'd treat us well for the occasion.,reservation,neutral,neutral,0.0012278119,0.97771263,0.021059582
+2378:3586,2378,"The service was typical short-order, dinner type.",service,neutral,neutral,0.19575751,0.5618223,0.24242021
+777:3592,777,"From the appetizers we ate, the dim sum and other variety of foods, it was impossible to criticize the food.",appetizers,positive,neutral,0.0023185322,0.53832716,0.4593543
+777:3593,777,"From the appetizers we ate, the dim sum and other variety of foods, it was impossible to criticize the food.",dim sum,positive,positive,0.00870534,0.023080243,0.96821445
+777:3594,777,"From the appetizers we ate, the dim sum and other variety of foods, it was impossible to criticize the food.",foods,positive,positive,0.03072711,0.30709985,0.6621731
+777:3595,777,"From the appetizers we ate, the dim sum and other variety of foods, it was impossible to criticize the food.",food,positive,positive,0.041216683,0.4651836,0.49359974

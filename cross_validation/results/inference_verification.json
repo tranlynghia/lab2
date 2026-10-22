@@ -1,0 +1,30 @@
+{
+  "selected_model": "SoftVoting_Ensemble",
+  "max_probability_difference_on_reload": 0.00048553943634033203,
+  "demonstration": [
+    {
+      "text": "The food was excellent but the service was slow.",
+      "aspect": "food",
+      "model": "SoftVoting_Ensemble",
+      "fold_models": 5,
+      "label": "positive",
+      "probabilities": {
+        "negative": 0.2495914362370968,
+        "neutral": 0.1382852289825678,
+        "positive": 0.6121233142912388
+      }
+    },
+    {
+      "text": "The food was excellent but the service was slow.",
+      "aspect": "service",
+      "model": "SoftVoting_Ensemble",
+      "fold_models": 5,
+      "label": "negative",
+      "probabilities": {
+        "negative": 0.5893585830926895,
+        "neutral": 0.13339253421872854,
+        "positive": 0.27724891528487206
+      }
+    }
+  ]
+}

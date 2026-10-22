@@ -1,0 +1,14 @@
+{
+  "members": [
+    "BERT_CNN",
+    "BERT_BiLSTM_Attention",
+    "BERT_Hybrid_Augmented"
+  ],
+  "weights": [
+    0.4,
+    0.2,
+    0.4
+  ],
+  "validation_f1_macro": 0.6702570846064169,
+  "selection": "27 fixed candidates; validation macro F1 only"
+}

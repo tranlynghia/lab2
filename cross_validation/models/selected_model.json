@@ -1,0 +1,16 @@
+{
+  "model": "SoftVoting_Ensemble",
+  "criterion": "mean outer-fold macro F1",
+  "folds": 5,
+  "f1_macro_mean": 0.6393783200995143,
+  "f1_macro_std": 0.02933331116614622,
+  "std_ddof": 1,
+  "inference": "equal average of five fold estimators",
+  "fold_paths": [
+    "fold_01",
+    "fold_02",
+    "fold_03",
+    "fold_04",
+    "fold_05"
+  ]
+}

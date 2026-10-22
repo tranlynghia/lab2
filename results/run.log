@@ -1,0 +1,120 @@
+Device=cuda; train=2850, validation=751, test=1120, augmented train=4027
+Majority: validation macro F1=0.2463
+TFIDF_NaiveBayes: validation macro F1=0.2865
+TFIDF_LogisticRegression: validation macro F1=0.5745
+TFIDF_LinearSVM: validation macro F1=0.5365
+D:/miniconda3/envs/py310/python.exe : 
+At line:2 char:88
++ ... FFLINE='1'; D:/miniconda3/envs/py310/python.exe -u Lab02/run_experime ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]
+Loading weights: 100%|██████████| 199/199 [00:00<00:00, 2525.62it/s]
+[transformers] [1mBertModel LOAD REPORT[0m from: bert-base-uncased
+Key                                        | Status     |  | 
+-------------------------------------------+------------+--+-
+cls.predictions.transform.LayerNorm.bias   | UNEXPECTED |  | 
+cls.predictions.transform.dense.weight     | UNEXPECTED |  | 
+cls.seq_relationship.weight                | UNEXPECTED |  | 
+cls.predictions.transform.dense.bias       | UNEXPECTED |  | 
+cls.seq_relationship.bias                  | UNEXPECTED |  | 
+cls.predictions.transform.LayerNorm.weight | UNEXPECTED |  | 
+cls.predictions.bias                       | UNEXPECTED |  | 
+
+Notes:
+- UNEXPECTED:	can be ignored when loading from different task/architecture; not ok if you expect identical arch.
+BERT train: 24/2850
+BERT train: 984/2850
+BERT train: 1944/2850
+BERT validation: 24/751
+BERT test: 24/1120
+BERT test: 984/1120
+BERT augmented: 24/4027
+BERT augmented: 984/4027
+BERT augmented: 1944/4027
+BERT augmented: 2904/4027
+BERT augmented: 3864/4027
+Random_Hybrid epoch 01: loss=1.1238, val F1=0.4539
+Random_Hybrid epoch 02: loss=1.0171, val F1=0.4468
+Random_Hybrid epoch 03: loss=0.9257, val F1=0.4581
+Random_Hybrid epoch 04: loss=0.8482, val F1=0.4623
+Random_Hybrid epoch 05: loss=0.7641, val F1=0.4757
+Random_Hybrid epoch 06: loss=0.7237, val F1=0.4733
+Random_Hybrid epoch 07: loss=0.6771, val F1=0.4917
+Random_Hybrid epoch 08: loss=0.6171, val F1=0.4834
+Random_Hybrid epoch 09: loss=0.5961, val F1=0.4755
+Random_Hybrid epoch 10: loss=0.5562, val F1=0.5172
+Random_Hybrid epoch 11: loss=0.5188, val F1=0.5141
+Random_Hybrid epoch 12: loss=0.5065, val F1=0.4783
+Random_Hybrid epoch 13: loss=0.4865, val F1=0.5134
+Random_Hybrid epoch 14: loss=0.4622, val F1=0.4993
+BERT_CNN epoch 01: loss=0.9552, val F1=0.5615
+BERT_CNN epoch 02: loss=0.7622, val F1=0.5878
+BERT_CNN epoch 03: loss=0.6886, val F1=0.5969
+BERT_CNN epoch 04: loss=0.6485, val F1=0.5690
+BERT_CNN epoch 05: loss=0.6113, val F1=0.5975
+BERT_CNN epoch 06: loss=0.5719, val F1=0.6085
+BERT_CNN epoch 07: loss=0.5139, val F1=0.6076
+BERT_CNN epoch 08: loss=0.5016, val F1=0.6210
+BERT_CNN epoch 09: loss=0.4629, val F1=0.6217
+BERT_CNN epoch 10: loss=0.4200, val F1=0.5963
+BERT_CNN epoch 11: loss=0.4143, val F1=0.5951
+BERT_CNN epoch 12: loss=0.3569, val F1=0.6082
+BERT_CNN epoch 13: loss=0.3391, val F1=0.6383
+BERT_CNN epoch 14: loss=0.3253, val F1=0.6307
+BERT_CNN epoch 15: loss=0.2891, val F1=0.6285
+BERT_CNN epoch 16: loss=0.2701, val F1=0.6365
+BERT_CNN epoch 17: loss=0.2522, val F1=0.6233
+BERT_BiLSTM_Attention epoch 01: loss=0.9238, val F1=0.5882
+BERT_BiLSTM_Attention epoch 02: loss=0.7443, val F1=0.6034
+BERT_BiLSTM_Attention epoch 03: loss=0.6869, val F1=0.6085
+BERT_BiLSTM_Attention epoch 04: loss=0.6200, val F1=0.5813
+BERT_BiLSTM_Attention epoch 05: loss=0.5784, val F1=0.6282
+BERT_BiLSTM_Attention epoch 06: loss=0.5295, val F1=0.6119
+BERT_BiLSTM_Attention epoch 07: loss=0.4747, val F1=0.6177
+BERT_BiLSTM_Attention epoch 08: loss=0.4483, val F1=0.6158
+BERT_BiLSTM_Attention epoch 09: loss=0.4029, val F1=0.6226
+BERT_Hybrid epoch 01: loss=0.9319, val F1=0.5955
+BERT_Hybrid epoch 02: loss=0.7456, val F1=0.5923
+BERT_Hybrid epoch 03: loss=0.6961, val F1=0.5950
+BERT_Hybrid epoch 04: loss=0.6500, val F1=0.5542
+BERT_Hybrid epoch 05: loss=0.6147, val F1=0.6023
+BERT_Hybrid epoch 06: loss=0.5539, val F1=0.6056
+BERT_Hybrid epoch 07: loss=0.4979, val F1=0.6210
+BERT_Hybrid epoch 08: loss=0.4638, val F1=0.6413
+BERT_Hybrid epoch 09: loss=0.4421, val F1=0.6513
+BERT_Hybrid epoch 10: loss=0.3972, val F1=0.6477
+BERT_Hybrid epoch 11: loss=0.3692, val F1=0.6175
+BERT_Hybrid epoch 12: loss=0.3283, val F1=0.6258
+BERT_Hybrid epoch 13: loss=0.3050, val F1=0.6542
+BERT_Hybrid epoch 14: loss=0.2763, val F1=0.6218
+BERT_Hybrid epoch 15: loss=0.2679, val F1=0.6307
+BERT_Hybrid epoch 16: loss=0.2460, val F1=0.6325
+BERT_Hybrid epoch 17: loss=0.2256, val F1=0.6289
+BERT_Hybrid_Augmented epoch 01: loss=0.9102, val F1=0.6082
+BERT_Hybrid_Augmented epoch 02: loss=0.7138, val F1=0.6108
+BERT_Hybrid_Augmented epoch 03: loss=0.6407, val F1=0.5692
+BERT_Hybrid_Augmented epoch 04: loss=0.5746, val F1=0.6266
+BERT_Hybrid_Augmented epoch 05: loss=0.5033, val F1=0.6375
+BERT_Hybrid_Augmented epoch 06: loss=0.4630, val F1=0.5620
+BERT_Hybrid_Augmented epoch 07: loss=0.4221, val F1=0.6260
+BERT_Hybrid_Augmented epoch 08: loss=0.3504, val F1=0.6113
+BERT_Hybrid_Augmented epoch 09: loss=0.3314, val F1=0.6450
+BERT_Hybrid_Augmented epoch 10: loss=0.3051, val F1=0.6344
+BERT_Hybrid_Augmented epoch 11: loss=0.2731, val F1=0.6291
+BERT_Hybrid_Augmented epoch 12: loss=0.2794, val F1=0.6237
+BERT_Hybrid_Augmented epoch 13: loss=0.2338, val F1=0.6360
+                   model  accuracy  precision_macro  recall_macro  f1_macro  f1_weighted  roc_auc_ovr_macro
+                Majority  0.650000         0.216667      0.333333  0.262626     0.512121           0.500000
+        TFIDF_NaiveBayes  0.658036         0.764666      0.348639  0.293765     0.531120           0.841012
+TFIDF_LogisticRegression  0.734821         0.628206      0.626635  0.622636     0.729130           0.850280
+         TFIDF_LinearSVM  0.730357         0.643954      0.546049  0.556805     0.692570           0.843985
+           Random_Hybrid  0.683036         0.554621      0.537938  0.540220     0.669651           0.770215
+                BERT_CNN  0.775000         0.688437      0.658425  0.671648     0.768793           0.862617
+   BERT_BiLSTM_Attention  0.733929         0.649394      0.699503  0.666939     0.746211           0.875100
+             BERT_Hybrid  0.783929         0.689102      0.681646  0.683288     0.777598           0.868618
+   BERT_Hybrid_Augmented  0.758929         0.664130      0.692439  0.671166     0.758930           0.882122
+     SoftVoting_Ensemble  0.765179         0.665405      0.686944  0.672714     0.764775           0.886880
+Selected by validation: SoftVoting_Ensemble; elapsed 329.0s

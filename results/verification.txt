@@ -1,0 +1,12 @@
+test_augmentation_protects_target_negation_and_offsets (test_pipeline.PipelineTests) ... ok
+test_disjoint_sentence_groups_and_unchanged_gold_test (test_pipeline.PipelineTests) ... ok
+test_metrics_and_ensemble (test_pipeline.PipelineTests) ... ok
+test_mixed_sentiment_sentence_keeps_distinct_aspects (test_pipeline.PipelineTests) ... ok
+test_padding_does_not_change_prediction (test_pipeline.PipelineTests) ... ok
+test_saved_results_match_recomputed_metrics (test_pipeline.PipelineTests) ... ok
+test_source_csv_is_unchanged (test_pipeline.PipelineTests) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.756s
+
+OK
